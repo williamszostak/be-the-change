@@ -1,0 +1,6 @@
+# Ignore compressed (binary) versions of MuseScore files
+**/Compressed/**
+*.mscz
+
+# Auto-saved backups
+.mscbackup

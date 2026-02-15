@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+  <rootfiles>
+    <rootfile full-path="score_style.mss"/>
+    <rootfile full-path="Be the Change - bass.mscx"/>
+    <rootfile full-path="Excerpts/0_Bb_Bass/0_Bb_Bass.mss"/>
+    <rootfile full-path="Excerpts/0_Bb_Bass/0_Bb_Bass.mscx"/>
+    <rootfile full-path="Excerpts/1_Eb_Bass/1_Eb_Bass.mss"/>
+    <rootfile full-path="Excerpts/1_Eb_Bass/1_Eb_Bass.mscx"/>
+    <rootfile full-path="Excerpts/2_C_Bass/2_C_Bass.mss"/>
+    <rootfile full-path="Excerpts/2_C_Bass/2_C_Bass.mscx"/>
+    <rootfile full-path="Thumbnails/thumbnail.png"/>
+    <rootfile full-path="audiosettings.json"/>
+    <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_Bb_Bass/viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_Bb_Bass/audiosettings.json"/>
+    <rootfile full-path="Excerpts/1_Eb_Bass/viewsettings.json"/>
+    <rootfile full-path="Excerpts/1_Eb_Bass/audiosettings.json"/>
+    <rootfile full-path="Excerpts/2_C_Bass/viewsettings.json"/>
+    <rootfile full-path="Excerpts/2_C_Bass/audiosettings.json"/>
+    </rootfiles>
+  </container>
