@@ -3,24 +3,24 @@
   <rootfiles>
     <rootfile full-path="score_style.mss"/>
     <rootfile full-path="Be the Change.mscx"/>
-    <rootfile full-path="Excerpts/0_Bb_Instruments/0_Bb_Instruments.mss"/>
-    <rootfile full-path="Excerpts/0_Bb_Instruments/0_Bb_Instruments.mscx"/>
-    <rootfile full-path="Excerpts/1_C_Instruments/1_C_Instruments.mss"/>
-    <rootfile full-path="Excerpts/1_C_Instruments/1_C_Instruments.mscx"/>
+    <rootfile full-path="Excerpts/0_C_Instruments/0_C_Instruments.mss"/>
+    <rootfile full-path="Excerpts/0_C_Instruments/0_C_Instruments.mscx"/>
+    <rootfile full-path="Excerpts/1_Eb_Instruments/1_Eb_Instruments.mss"/>
+    <rootfile full-path="Excerpts/1_Eb_Instruments/1_Eb_Instruments.mscx"/>
     <rootfile full-path="Excerpts/2_F_Instruments/2_F_Instruments.mss"/>
     <rootfile full-path="Excerpts/2_F_Instruments/2_F_Instruments.mscx"/>
-    <rootfile full-path="Excerpts/3_Eb_Instruments/3_Eb_Instruments.mss"/>
-    <rootfile full-path="Excerpts/3_Eb_Instruments/3_Eb_Instruments.mscx"/>
+    <rootfile full-path="Excerpts/3_Bb_Instruments/3_Bb_Instruments.mss"/>
+    <rootfile full-path="Excerpts/3_Bb_Instruments/3_Bb_Instruments.mscx"/>
     <rootfile full-path="Thumbnails/thumbnail.png"/>
     <rootfile full-path="audiosettings.json"/>
     <rootfile full-path="viewsettings.json"/>
-    <rootfile full-path="Excerpts/0_Bb_Instruments/viewsettings.json"/>
-    <rootfile full-path="Excerpts/0_Bb_Instruments/audiosettings.json"/>
-    <rootfile full-path="Excerpts/1_C_Instruments/viewsettings.json"/>
-    <rootfile full-path="Excerpts/1_C_Instruments/audiosettings.json"/>
+    <rootfile full-path="Excerpts/0_C_Instruments/viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_C_Instruments/audiosettings.json"/>
+    <rootfile full-path="Excerpts/1_Eb_Instruments/viewsettings.json"/>
+    <rootfile full-path="Excerpts/1_Eb_Instruments/audiosettings.json"/>
     <rootfile full-path="Excerpts/2_F_Instruments/viewsettings.json"/>
     <rootfile full-path="Excerpts/2_F_Instruments/audiosettings.json"/>
-    <rootfile full-path="Excerpts/3_Eb_Instruments/viewsettings.json"/>
-    <rootfile full-path="Excerpts/3_Eb_Instruments/audiosettings.json"/>
+    <rootfile full-path="Excerpts/3_Bb_Instruments/viewsettings.json"/>
+    <rootfile full-path="Excerpts/3_Bb_Instruments/audiosettings.json"/>
     </rootfiles>
   </container>

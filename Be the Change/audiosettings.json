@@ -51,39 +51,25 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
-                        "museCategory": "Muse Brass",
-                        "museName": "Horn in F",
-                        "musePack": "Muse Brass",
-                        "museUID": "108",
-                        "museVendorName": "",
-                        "playbackSetupData": "winds.horn.french:in_f"
+                        "playbackSetupData": "last.last.last",
+                        "soundFontName": "MS Basic"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "Muse Brass\\Horn in F\\108",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "MuseSounds"
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
                 },
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "horn",
+            "instrumentId": "metronome",
             "out": {
-                "auxSends": [
-                    {
-                        "active": true,
-                        "signalAmount": 0.4000000059604645
-                    },
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    }
-                ],
                 "balance": 0,
                 "fxChain": {
                 },
                 "volumeDb": 0
             },
-            "partId": "4",
+            "partId": "999",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -94,21 +80,21 @@
                 "resourceMeta": {
                     "attributes": {
                         "museCategory": "Muse Woodwinds",
-                        "museName": "Alto Sax",
+                        "museName": "Tenor Sax",
                         "musePack": "Muse Woodwinds",
-                        "museUID": "130",
+                        "museUID": "131",
                         "museVendorName": "",
-                        "playbackSetupData": "winds.saxophone.alto"
+                        "playbackSetupData": "winds.saxophone.tenor"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "Muse Woodwinds\\Alto Sax\\130",
+                    "id": "Muse Woodwinds\\Tenor Sax\\131",
                     "type": "muse_sampler_sound_pack",
                     "vendor": "MuseSounds"
                 },
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "alto-saxophone",
+            "instrumentId": "tenor-saxophone",
             "out": {
                 "auxSends": [
                     {
@@ -125,7 +111,7 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "3",
+            "partId": "1",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -178,21 +164,21 @@
                 "resourceMeta": {
                     "attributes": {
                         "museCategory": "Muse Woodwinds",
-                        "museName": "Tenor Sax",
+                        "museName": "Alto Sax",
                         "musePack": "Muse Woodwinds",
-                        "museUID": "131",
+                        "museUID": "130",
                         "museVendorName": "",
-                        "playbackSetupData": "winds.saxophone.tenor"
+                        "playbackSetupData": "winds.saxophone.alto"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "Muse Woodwinds\\Tenor Sax\\131",
+                    "id": "Muse Woodwinds\\Alto Sax\\130",
                     "type": "muse_sampler_sound_pack",
                     "vendor": "MuseSounds"
                 },
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "tenor-saxophone",
+            "instrumentId": "alto-saxophone",
             "out": {
                 "auxSends": [
                     {
@@ -209,7 +195,7 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "1",
+            "partId": "3",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -219,25 +205,39 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
-                        "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
+                        "museCategory": "Muse Brass",
+                        "museName": "Horn in F",
+                        "musePack": "Muse Brass",
+                        "museUID": "108",
+                        "museVendorName": "",
+                        "playbackSetupData": "winds.horn.french:in_f"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
+                    "id": "Muse Brass\\Horn in F\\108",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "MuseSounds"
                 },
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "metronome",
+            "instrumentId": "horn",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.4000000059604645
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
                 "volumeDb": 0
             },
-            "partId": "999",
+            "partId": "4",
             "soloMuteState": {
                 "mute": false,
                 "solo": false

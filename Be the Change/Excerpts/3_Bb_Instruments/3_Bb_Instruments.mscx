@@ -3,9 +3,9 @@
   <programVersion>4.5.2</programVersion>
   <programRevision>ac9d3bc</programRevision>
   <Score>
-    <eid>bYfKbJ+bkEI_9zmkaQKTuK</eid>
-    <name>E♭ Instruments</name>
-    <initialPartId>3</initialPartId>
+    <eid>1CCNyVwyG6M_UNFUivPCTpM</eid>
+    <name>B♭ Instruments</name>
+    <initialPartId>1</initialPartId>
     <Division>480</Division>
     <Style>
       <pageWidth>8.5</pageWidth>
@@ -29,35 +29,43 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <open>1</open>
-    <metaTag name="partName">E♭ Instruments</metaTag>
-    <Part id="3">
+    <metaTag name="partName">B♭ Instruments</metaTag>
+    <Part id="1">
       <Staff id="1">
-        <linkedTo>5</linkedTo>
+        <linkedTo>7</linkedTo>
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
+        <defaultConcertClef>G8vb</defaultConcertClef>
+        <defaultTransposingClef>G</defaultTransposingClef>
         <barLineSpan>1</barLineSpan>
         </Staff>
       <Staff id="2">
-        <linkedTo>6</linkedTo>
+        <linkedTo>8</linkedTo>
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
+        <defaultConcertClef>G8vb</defaultConcertClef>
+        <defaultTransposingClef>G</defaultTransposingClef>
         </Staff>
-      <trackName>Alto Saxophone</trackName>
-      <Instrument id="alto-saxophone">
-        <longName>E♭ Alto Sax</longName>
-        <shortName>E♭ Alto</shortName>
-        <trackName>Alto Saxophone</trackName>
-        <minPitchP>49</minPitchP>
-        <maxPitchP>92</maxPitchP>
-        <minPitchA>49</minPitchA>
-        <maxPitchA>80</maxPitchA>
-        <transposeDiatonic>-5</transposeDiatonic>
-        <transposeChromatic>-9</transposeChromatic>
-        <instrumentId>wind.reed.saxophone.alto</instrumentId>
+      <trackName>Tenor Saxophone</trackName>
+      <Instrument id="tenor-saxophone">
+        <longName>B♭ Inst.</longName>
+        <shortName>B♭</shortName>
+        <trackName>Tenor Saxophone</trackName>
+        <minPitchP>44</minPitchP>
+        <maxPitchP>87</maxPitchP>
+        <minPitchA>44</minPitchA>
+        <maxPitchA>75</maxPitchA>
+        <transposeDiatonic>-8</transposeDiatonic>
+        <transposeChromatic>-14</transposeChromatic>
+        <instrumentId>wind.reed.saxophone.tenor</instrumentId>
+        <concertClef>G8vb</concertClef>
+        <transposingClef>G</transposingClef>
+        <concertClef staff="2">G8vb</concertClef>
+        <transposingClef staff="2">G</transposingClef>
         <Channel>
-          <program value="65"/>
+          <program value="66"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -65,37 +73,39 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
-        <eid>lVghmuuWseB_P8uL2ewBSXD</eid>
+        <eid>jdmt6HYXueI_e1dxo4cBc6C</eid>
         <linked>
           <location>
-            <staves>-4</staves>
+            <staves>-6</staves>
             </location>
           </linked>
         <Text>
-          <eid>lEUFTBIZNBI_ORvymPSyT8N</eid>
+          <eid>EXBeNILe8CM_BxYnIDYGFeE</eid>
           <linked>
             <location>
-              <staves>-4</staves>
+              <staves>-6</staves>
               </location>
             </linked>
           <style>title</style>
           <text>Be the Change</text>
           </Text>
         <Text>
-          <eid>TopBaKaVKCJ_vpuMkU53Q0G</eid>
+          <eid>Hr0nURRN1EG_AYVdkj/jV/G</eid>
           <linked>
             <location>
-              <staves>-4</staves>
+              <staves>-6</staves>
               </location>
             </linked>
           <style>subtitle</style>
-          <text>Jan 4, 2026</text>
+          <textLineSpacing>1.3</textLineSpacing>
+          <text>Feb 16, 2026
+<font size="10"/>(Orig. Jan 4, 2026)</text>
           </Text>
         <Text>
-          <eid>jaFRtkV6+GK_w5CxAOjbiiM</eid>
+          <eid>t4nI4B6Ua9E_w33dSaEFg+C</eid>
           <linked>
             <location>
-              <staves>-4</staves>
+              <staves>-6</staves>
               </location>
             </linked>
           <style>composer</style>
@@ -103,15 +113,15 @@
 Don B.A. Hader</text>
           </Text>
         <Text>
-          <eid>ppe2+zL8f5J_IjgEDeeF+MH</eid>
+          <eid>Jv6Be5rddR_GsnckQFGqsH</eid>
           <style>instrument_excerpt</style>
-          <text>E♭ Instruments</text>
+          <text>B♭ Instruments</text>
           </Text>
         <Text>
-          <eid>qWk5SMm0TtD_+/jdFt+zZgO</eid>
+          <eid>rDn1A6A19DH_AinqHHeKdAP</eid>
           <linked>
             <location>
-              <staves>-4</staves>
+              <staves>-6</staves>
               </location>
             </linked>
           <style>poet</style>
@@ -120,506 +130,497 @@ Don B.A. Hader</text>
           </Text>
         </VBox>
       <Measure>
-        <eid>BjgYKnSnGOK_6dj1s/Iq/AE</eid>
+        <eid>qnQKQO/QgyG_MsklPCys83M</eid>
         <voice>
           <KeySig>
-            <eid>CPiKXHkv4JG_O3mHeFBUT3H</eid>
+            <eid>fcrJ961bn8N_pT6lVCLDyfN</eid>
             <linked>
               </linked>
-            <concertKey>-3</concertKey>
-            <actualKey>0</actualKey>
+            <concertKey>-1</concertKey>
+            <actualKey>1</actualKey>
             </KeySig>
           <TimeSig>
-            <eid>IsiWmu9bl0G_ojhQgND0t4C</eid>
+            <eid>rb3UGutdzAJ_9jwE66xxRCG</eid>
             <linked>
               </linked>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <RehearsalMark>
-            <eid>nmRKs87aIbP_YAZSLF6NbvD</eid>
+            <eid>aKsScIMqzTF_svxABrHm/pJ</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-6</staves>
                 </location>
               <indexDiff>7</indexDiff>
               </linked>
             <text>1</text>
             </RehearsalMark>
           <Chord>
-            <eid>ZA3kQr7YAjL_Nrr6ePuJ8MG</eid>
+            <eid>udKaWpunTj_Qn9W6rZOF2K</eid>
             <linked>
               <indexDiff>2</indexDiff>
               </linked>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>mvgV8JmZJFL_jhcDyMKgwGF</eid>
+              <eid>fIvStbPdBiB_93chdH8P52I</eid>
               <linked>
                 <indexDiff>2</indexDiff>
                 </linked>
               <text>Be</text>
               </Lyrics>
             <Note>
-              <eid>8wsFuILvVdE_E/KQ1ctMsbJ</eid>
+              <eid>WEeet8UtfwP_cTlSMtR7Rx</eid>
               <linked>
                 <indexDiff>2</indexDiff>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            <Note>
-              <eid>KVEau2/FcDB_sXLXOh7umlO</eid>
-              <linked>
-                <indexDiff>2</indexDiff>
-                </linked>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>1Fh2peo0lfK_go7p4IzEeFJ</eid>
+            <eid>u0DLY53FXmH_uCf4wnCH8wN</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>uYATfb4uFFM_4/MzIUNpweK</eid>
+              <eid>0dRvq7jyn1N_o49ZgI/HHFD</eid>
               <linked>
                 </linked>
               <text>the</text>
               </Lyrics>
             <Note>
-              <eid>Vt22w1uIsiP_k3XOKegtWXL</eid>
+              <eid>R6E61eWb9fJ_5VBUzzFrhPC</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
-              <eid>QLngFZadK2I_8HxkKsUmRtF</eid>
+              <eid>R1dBoL88fCN_nuS0RxmnMEG</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>SZ8i132JH0H_mGXXGTsNrlJ</eid>
+            <eid>pzR2a7xH7GE_C91Nh9DW01C</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>eqRAbL2eCrH_qq1zqXdlFFI</eid>
+              <eid>OPYxzpnxc7K_IhTewmjcAUM</eid>
               <linked>
                 </linked>
               <text>change</text>
               </Lyrics>
             <Note>
-              <eid>IUca9ZkNzLL_CVmFNJZvgdB</eid>
+              <eid>0EPj6dl3AhI_tN3f+JaGOAG</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
-              <eid>jFIYOGnUmJI_4p/5MZUWk1H</eid>
+              <eid>DXMsLcYHwoP_llJn/jBe4SE</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>TBjYg5hFRNN_y9UdnfxGgPE</eid>
+            <eid>jE42o4v/ikB_YVLnrkJpyeO</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>gFT9J+FVg2D_B+ksqKFM5kE</eid>
+              <eid>EeeXJjJF7w_p6J1WK8jQ6B</eid>
               <linked>
                 </linked>
               <text>that</text>
               </Lyrics>
             <Note>
-              <eid>rk6msQjNQxF_u4TmiYPcawN</eid>
+              <eid>HGMmiIUnVJH_/PoPYFpaB5M</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>AzBQkmtXaeJ_uW8YY9ntMCG</eid>
+            <eid>y5wiQq38vOC_cbygk7OsoUC</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>oN6qRe16GDD_qePu2ooYS+K</eid>
+              <eid>oiFuep/ZspC_X+d/ljOl9PK</eid>
               <linked>
                 </linked>
               <text>you</text>
               </Lyrics>
             <Note>
-              <eid>1Vtgdj8YE4D_2GI3SqKFm4J</eid>
+              <eid>86k44q5hSSP_oVzrx/xpN4D</eid>
               <linked>
                 </linked>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
-        <eid>ld2a3HA9AME_l1Vg3uOPePE</eid>
+        <eid>XJxWnagMVaB_+TMT+0n5CiB</eid>
         <voice>
           <Chord>
-            <eid>gyjTMkFOuG_Vl1bWigUQPN</eid>
+            <eid>sJpUIhMUHiE_9KIu8lnFePM</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>gV0A6o4jldE_pH45IGGjnEC</eid>
+              <eid>rHoh+SnN4LN_Ha7t6SGvS1J</eid>
               <linked>
                 </linked>
               <text>want</text>
               </Lyrics>
             <Note>
-              <eid>dQ4+NUWSWCP_4qxz0RpiW7N</eid>
+              <eid>zIV6uzf8cyH_KGYFWei7kqB</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>UKUdxZHnRQD_WoGoe/5FMYC</eid>
+            <eid>XXdszOujO6L_RHNtESmJtRM</eid>
             <linked>
               </linked>
             <durationType>16th</durationType>
             <Lyrics>
-              <eid>ieZwiE3JOxD_lA9R1B25q6E</eid>
+              <eid>kCpgbL2BF0P_bNKe3ZJNPoE</eid>
               <linked>
                 </linked>
               <text>to</text>
               </Lyrics>
             <Note>
-              <eid>2J68V4i8HwO_wjjDlww2iSP</eid>
+              <eid>cj1+AN+L8MI_TYSYg1HTkbG</eid>
               <linked>
                 </linked>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>7Wm57NRWbrF_r8XmKwIoTHJ</eid>
+            <eid>ilVubK4WUHC_wQf6lMUannC</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>meK1vmwmYqH_+VfBVdzSgjH</eid>
+              <eid>JuiMfQIB2rO_C2+o5fZgT7M</eid>
               <linked>
                 </linked>
               <text>see</text>
               </Lyrics>
             <Note>
-              <eid>I7IK2BQFG1F_rNHujzRj+5G</eid>
+              <eid>ucGN1aGFCvB_pWPFeQEn6UI</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
-            <eid>ru/QOm4z7kP_U+RVrA/h2kM</eid>
+            <eid>rzJ52Qm3FDB_ptywRUGSrrG</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
-            <eid>fNL+Ub+wX8B_1eVgdx9LBWP</eid>
+            <eid>g1vgCIVgpzN_4w6rFy29TDE</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>ApELYBmjXmF_zApj0xfaMvH</eid>
+              <eid>U5VZvZ0OKfF_xPUoFGrtZVJ</eid>
               <linked>
                 </linked>
               <text>in</text>
               </Lyrics>
             <Note>
-              <eid>1393xZgyxcN_OAzHx40EVML</eid>
+              <eid>zDxopHLugdK_Og/SaCtNOJK</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>PQ2pYmUnFWN_aLq5tAWasgG</eid>
+            <eid>Np5ct6yS91J_uOC6+yquX+J</eid>
             <linked>
               </linked>
             <durationType>16th</durationType>
             <Lyrics>
-              <eid>lTOh/BV41uN_ekYD3PwrFHP</eid>
+              <eid>bgogK1byFPO_Qj1zjqLQ87L</eid>
               <linked>
                 </linked>
               <text>the</text>
               </Lyrics>
             <Note>
-              <eid>L6TeTHDzEbK_anIxqjPK5nG</eid>
+              <eid>B44yL56v/lI_hCVvsn2Hl+C</eid>
               <linked>
                 </linked>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>2h12l77BfkJ_wO+AEbb6MVL</eid>
+            <eid>ToZ7jGxltYJ_1rE8r4T1WxC</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>i2jdfBnSeLB_uYNwuGPSUMI</eid>
+              <eid>j1hGr/05xwH_8TNxfIsVNAI</eid>
               <linked>
                 </linked>
               <text>world.</text>
               </Lyrics>
             <Note>
-              <eid>uTPFT9ioWJL_60EE2wD3R3P</eid>
+              <eid>lpJiokIHkxN_U+rNQtywFlM</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
-        <eid>HKEb2CDXh5H_NuZL0VKHZ8B</eid>
+        <eid>xgOZOWxLNwP_DE3LPzRPYGC</eid>
         <voice>
           <Chord>
-            <eid>wFYcJZufqCN_AROapGIUQgC</eid>
+            <eid>7MnMFiJ4tDE_pKB8tQi7WbB</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>EldBNrEYm0B_ej/kYDIaf4P</eid>
+              <eid>f3pxK7SG8iP_0WDdaTOLDM</eid>
               <linked>
                 </linked>
               <text>Be</text>
               </Lyrics>
             <Note>
-              <eid>LdOYWc1jaoL_1BCtn39UreD</eid>
+              <eid>3zO/AOXGwqI_GMgGD3hXk4O</eid>
               <linked>
                 </linked>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              <tpc2>13</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
-              <eid>vabwuweUWeF_WZshGf2bMmN</eid>
+              <eid>saY8Rqt9H5C_H7x4T4dQmKI</eid>
               <linked>
                 </linked>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>+TtTsg3NgFC_3DRtvWAbPBI</eid>
+            <eid>Y5wZCj2elKF_fQnRS1QBc4J</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>ZyPrjb19nIH_wk1bTghvXhH</eid>
+              <eid>0O0Noe4zgOB_yOftLW99zCF</eid>
               <linked>
                 </linked>
               <text>the</text>
               </Lyrics>
             <Note>
-              <eid>7X5/TSacfvK_rw/wVUjlEnF</eid>
+              <eid>5U44QvddiOJ_omU6FcUOPYO</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
-              <eid>KWgPWjzlkl_mLoe8ElLrJG</eid>
+              <eid>VmpJaUXI1pN_WhDsLjBFeiI</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>6akRTV2mD4H_eRwkKeaaDTF</eid>
+            <eid>SpVnueleqoL_5/0WeC52xdN</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>6XpYi+rMb0H_+1SDcxcoi3C</eid>
+              <eid>bmigdawyj7I_haeM66fOVNF</eid>
               <linked>
                 </linked>
               <text>change</text>
               </Lyrics>
             <Note>
-              <eid>0SmioH+uPCC_sbExsFR9KNI</eid>
+              <eid>nd+atMs25jG_JrATP2WOeGG</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
-              <eid>fPZrzksGjVL_VoaZ/U7cKOO</eid>
+              <eid>Hy8QwWsiqaK_e5z1WahL24P</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>INgNSbhPTFM_qEPX+uteScN</eid>
+            <eid>BX2vhJTTMKJ_Ym1SXYZGG3P</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>+JoQve292kC_H/NL84/z38E</eid>
+              <eid>Nk0++S2EbXN_DncOdZ1YUE</eid>
               <linked>
                 </linked>
               <text>that</text>
               </Lyrics>
             <Note>
-              <eid>5ln5wS0t7QC_evzPkjSxyWK</eid>
+              <eid>HyU54g+GThD_Arvzycs210I</eid>
               <linked>
                 </linked>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>8s/HREtNN1F_o+vrwdVVy8N</eid>
+            <eid>JQhz4s1bjkM_stjw69B+RmM</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>IiOAiP7c2XK_kWMoO2ThaCH</eid>
+              <eid>8rzKnKPZ34N_TXvE1IgYH9N</eid>
               <linked>
                 </linked>
               <text>you</text>
               </Lyrics>
             <Note>
-              <eid>0q1tIuKVmqC_04WV/BL04yG</eid>
+              <eid>81MtK6l/VgL_+1B3fCytcRI</eid>
               <linked>
                 </linked>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
-        <eid>HYTaKxTui9C_5zWyFdbmwvB</eid>
+        <eid>RxJitH3poSL_A4eFx1rpFTF</eid>
         <voice>
           <Chord>
-            <eid>UJ1tGj1XEB_TY8WfSaci1P</eid>
+            <eid>V93bePmIpBO_5kIZamHCc0I</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>JCDSt8ipRO_cKVAD1ASLCG</eid>
+              <eid>1pC5yfXpthN_HoudCk0x3kE</eid>
               <linked>
                 </linked>
               <text>want</text>
               </Lyrics>
             <Note>
-              <eid>GpS3IXCXMJK_a6YeV2IgLzO</eid>
+              <eid>U0E6UEfy4AL_cFy/oFFWLjO</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>zzJpRiEoWCO_2tPIZpZfdBG</eid>
+            <eid>B3uXC+THp4M_dULLOXxRW8J</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>XAtbt1PyLtC_yzEByYI76UC</eid>
+              <eid>rGKyj0T4k0K_8ZCzGGc4ckG</eid>
               <linked>
                 </linked>
               <text>to</text>
               </Lyrics>
             <Note>
-              <eid>Rlx+EmitLiH_GFhIAVHz5KK</eid>
+              <eid>fe+JSBD5+NP_u5uyrljnqOF</eid>
               <linked>
                 </linked>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>ZXGByYi0U/M_e0pifLFxxuD</eid>
+            <eid>nxBK0gxuo8B_bceW6a6ETQM</eid>
             <linked>
               </linked>
             <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>Kw2d/aSKJjG_atIvXUl3JoI</eid>
+              <eid>aSrdwykLmrH_I0BNqrinSGJ</eid>
               <linked>
                 </linked>
               <text>see</text>
               </Lyrics>
             <Note>
-              <eid>yfC9o0+QahB_rvoL31GMXsH</eid>
+              <eid>6uLAsDZ2dTO_FJAshwC36BN</eid>
               <linked>
                 </linked>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>6blQeOsQJjF_cb+InoowTL</eid>
+            <eid>lpeySl08Zg_q45LP3B4ZJ</eid>
             <linked>
               </linked>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <eid>4NjAoZV3YYN_/+9RmghIVnN</eid>
+              <eid>r8vrF0cCJPB_Kg0S60ziTT</eid>
               <linked>
                 </linked>
               <text>a</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <eid>+yFVAw3qoNO_OaBe5xZPiZC</eid>
+                <eid>k4HqE8/JL5K_338pO8N2G6K</eid>
                 <linked>
                   </linked>
                 </Slur>
@@ -630,22 +631,22 @@ Don B.A. Hader</text>
                 </next>
               </Spanner>
             <Note>
-              <eid>0+DwY8NMRZP_PVLggicwPjL</eid>
+              <eid>npn0fuBWwpL_FxeekT+eVQP</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>L0Guc3N4RGK_bGYb7hfYk+B</eid>
+            <eid>Y6Jm9i5PMcN_CJVSlBCZLwL</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <eid>hPnSXkWa1fP_jE3HRxjhnfF</eid>
+              <eid>YrYMrAWiylH_bTM1jxlVc6M</eid>
               <linked>
                 </linked>
               <text>round</text>
@@ -658,36 +659,36 @@ Don B.A. Hader</text>
                 </prev>
               </Spanner>
             <Note>
-              <eid>0fUfaLkfcAP_qOpemqz+mpH</eid>
+              <eid>FYqlHTMHn8H_uOgpaWys01D</eid>
               <linked>
                 </linked>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>Ec9FgUh4feF_Kw6ffOzu3eF</eid>
+            <eid>6uSFsApAz+I_hI4WvuE+TBM</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>tJvFSlrUDcG_vh9b0dmTzII</eid>
+              <eid>wIxJ0rs4xEK_/W0O+zVQnCM</eid>
               <linked>
                 </linked>
               <text>you.</text>
               </Lyrics>
             <Note>
-              <eid>BeM3dCFw1uL_XbotnOSbBX</eid>
+              <eid>oTLAFJoMdZI_APFIQWGV9WG</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
-            <eid>9lfmaqRgrJF_erbzG6RHlk</eid>
+            <eid>SarQq6VV3UJ_sfTajO3TPSN</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
@@ -695,358 +696,350 @@ Don B.A. Hader</text>
           </voice>
         </Measure>
       <Measure>
-        <eid>2cid/vJ3zXP_+UzbPQhbqaH</eid>
+        <eid>Pb539pke0dO_ZiAB5SNM53M</eid>
         <voice>
           <Chord>
-            <eid>B+Gqadg4ZbJ_flMNqO9ChxC</eid>
+            <eid>m+qtZ7qQxqL_V/cGiWrVfvL</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>kLLEusxLXeL_LCM31elWUFL</eid>
+              <eid>NWQM0YnsMsJ_KP7RYSMWMGO</eid>
               <linked>
                 </linked>
               <text>Be</text>
               </Lyrics>
             <Note>
-              <eid>dGabL/ad55K_EVRbGevGK+J</eid>
+              <eid>7YI67KbhhDJ_z7w0ab0PC6K</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            <Note>
-              <eid>umY5SqOZnnJ_yBM3l64fVuF</eid>
-              <linked>
-                </linked>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>AszOJUyybnO_CgbzpW1oUhB</eid>
+            <eid>HeiwbwTl+yM_A7BX/TfOT8B</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>9ydU80hsLT_DZKtCdSHkuD</eid>
+              <eid>SuyyimngS7D_ajXAt9vHcxD</eid>
               <linked>
                 </linked>
               <text>the</text>
               </Lyrics>
             <Note>
-              <eid>eYqLE+eDe6M_3m4wvLu1E4N</eid>
+              <eid>8GzUAHwulHB_OvVPMcHkqQD</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
-              <eid>UI30aHQ71kM_HH1DV5py9EL</eid>
+              <eid>mMwtsrsYPKN_FmpRSF5HiRN</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>Jqt4bDPQxBD_dWr5Mpkm/RG</eid>
+            <eid>UUscYJ8G9UB_czcd10frQiG</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>iHrV6J/n8vE_vZ2QP2uqtgI</eid>
+              <eid>Calh24lliaJ_EatfBjuubII</eid>
               <linked>
                 </linked>
               <text>change</text>
               </Lyrics>
             <Note>
-              <eid>NN+VnkZF/5F_VtUrox9jfdD</eid>
+              <eid>u4Rg14eElwD_2TrWHDhi2YK</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
-              <eid>GTDtANmBYdK_VzjwBb8OFkD</eid>
+              <eid>H6OsZtGw67E_LqSAfzhFyRN</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>cwlWpMYBt0E_ceM/QAacjDI</eid>
+            <eid>SSzvmHj+9sE_8JcyES71DCB</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>DGYG0/gja4P_s1FDMHHz//M</eid>
+              <eid>7xaIVp5rRkP_FUky6XVsEm</eid>
               <linked>
                 </linked>
               <text>that</text>
               </Lyrics>
             <Note>
-              <eid>u4uwN78LoT_67s8eVMd2nH</eid>
+              <eid>qTEQHCfGyvM_8B5iK6Aj0DP</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>TeBYiuqsCnI_JFKi2SN2yEJ</eid>
+            <eid>tT0wm4/PIbF_SVeORjMAn5G</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>i1ZK9QckurH_bArHobrS4lD</eid>
+              <eid>WEDAE72YjrH_4BS5fCGJNmC</eid>
               <linked>
                 </linked>
               <text>you</text>
               </Lyrics>
             <Note>
-              <eid>FS00zNEPbeH_4SRdB5fITiL</eid>
+              <eid>aSS7rpBxGU_ifs2TV+1NpJ</eid>
               <linked>
                 </linked>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
-        <eid>9RoVWI0SJ8K_uQNY7OoMxJJ</eid>
+        <eid>LD5jrNi9mUE_KBD4X1MCsZI</eid>
         <voice>
           <Chord>
-            <eid>5BPmQDPS/gG_oZlB7UnBpcN</eid>
+            <eid>EBl2ffbojqC_8GZltT26RpP</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>cM7C6DMLZpI_duxp59sFbCL</eid>
+              <eid>jAeEiwQ+mGK_dG9wJHJq/TC</eid>
               <linked>
                 </linked>
               <text>want</text>
               </Lyrics>
             <Note>
-              <eid>tqrLMrmMh4H_+jk2cQqGpEB</eid>
+              <eid>0eZAM4Nq4rN_E5EodbnzrnK</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>NbE/12CcriG_0UITVP2ZGMN</eid>
+            <eid>pj9OSamRWBN_8GcL+zNLjLL</eid>
             <linked>
               </linked>
             <durationType>16th</durationType>
             <Lyrics>
-              <eid>C/0JJ/HgF/L_xL5jN+5g/jK</eid>
+              <eid>dTJt2Ek0yME_4IxGe/BH8SC</eid>
               <linked>
                 </linked>
               <text>to</text>
               </Lyrics>
             <Note>
-              <eid>k40G8Rr2n9C_qBHkCj9p3EO</eid>
+              <eid>sEKaNz2STqL_gSlivUWeG2L</eid>
               <linked>
                 </linked>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>mEb02Z6kEtK_8QtWjLwVO7P</eid>
+            <eid>YRe2gEyF/SB_aS8DIaubwxB</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>4g0yr6fF6CP_O4/9gkc3sDM</eid>
+              <eid>0eHOmFF9vAI_73AcyMCxsiB</eid>
               <linked>
                 </linked>
               <text>see</text>
               </Lyrics>
             <Note>
-              <eid>cCfpQsJ3nVH_EJqpqhgUryF</eid>
+              <eid>LLjeybkiAcC_x6MVbbmYXeB</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
-            <eid>xvNMNwv4qmC_xZckGOQAhDN</eid>
+            <eid>PqzYLDeMaiM_/CK6pNa9ShE</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
-            <eid>UrqsCORJF/_1pg/ySLkQiF</eid>
+            <eid>JFqXOSx2XXB_cPlBE/l0IEE</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>+kFNII+KBuK_ra+3+ZvTMpB</eid>
+              <eid>QsCcnTxNSmF_Fk4OEP9yvkI</eid>
               <linked>
                 </linked>
               <text>in</text>
               </Lyrics>
             <Note>
-              <eid>PoF3YPxUe0B_RQ0Cx7+lUYP</eid>
+              <eid>jZJRFXQdDWH_JJTmbl0PjqP</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>TL3dd6dIPrN_p3KaUsYOvML</eid>
+            <eid>Bhz9yqbG/5I_Qa6vpDPV6eD</eid>
             <linked>
               </linked>
             <durationType>16th</durationType>
             <Lyrics>
-              <eid>FJmZd3iCCuN_xCdth1YvhuF</eid>
+              <eid>xlN5IZJgeoN_Z+4lMqS60jI</eid>
               <linked>
                 </linked>
               <text>the</text>
               </Lyrics>
             <Note>
-              <eid>za8O/Fy70BI_Mp2fUHEM9sI</eid>
+              <eid>OYWYNKQ1ILN_pQxt3SMx/OK</eid>
               <linked>
                 </linked>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>7Svhmyw5fU_r9XV1VE4x7M</eid>
+            <eid>vzz64DCo8YC_xb6IPdYo2iH</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>BewTq4E4N5D_SxsJj5yYEnK</eid>
+              <eid>4So3NZP7JuC_YsSk/Pnyk/B</eid>
               <linked>
                 </linked>
               <text>world.</text>
               </Lyrics>
             <Note>
-              <eid>CBlf6kFsO3C_bOv7yOniLfI</eid>
+              <eid>9ysyk+QL3zI_bgyEDxs3XjO</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
-        <eid>ROPLFAuslnO_f4uyW/9bxMG</eid>
+        <eid>nHPVL6AZeIO_WBzuk/HgzfE</eid>
         <voice>
           <Chord>
-            <eid>SP6yyGP+uAJ_9aOxNgUHS1C</eid>
+            <eid>umIzisiFcBF_SIcIfRGbM8F</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>Tcn7uerUv0P_eKs3e4TL7FI</eid>
+              <eid>9QFqyTbKhQG_Z/lgxUjHKzF</eid>
               <linked>
                 </linked>
               <text>Be</text>
               </Lyrics>
             <Note>
-              <eid>5cG/O+ZXm/F_P+/4OBE9ILJ</eid>
+              <eid>MkhW2Hep5mF_0wEFjb3gZcI</eid>
               <linked>
                 </linked>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              <tpc2>13</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
-              <eid>2dS6NNk/97I_RQVHWtgct</eid>
+              <eid>JfFB7YOQe6C_beqMLpvxfjF</eid>
               <linked>
                 </linked>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>xdogewC409K_eaAQstlkEK</eid>
+            <eid>VBonQvNLypG_r1q9PO+6rWF</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>sPCLSavKimD_Vr50GB4mWtO</eid>
+              <eid>sCC2WjvmafF_dsiU0Yg03sN</eid>
               <linked>
                 </linked>
               <text>the</text>
               </Lyrics>
             <Note>
-              <eid>62t9wzTLzcJ_xFJBLTangeL</eid>
+              <eid>juDkNuJLdmP_mnIsa/mc3vF</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
-              <eid>uxEg7YiTirD_GMBy2TfHO/C</eid>
+              <eid>7W90RDBi/TB_q/ampm2TPOG</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>nJgw+MLbRU_yCY0129praN</eid>
+            <eid>OaYZBhbpDT_q2Yt5pLhcpH</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>lUa/j4/+OTH_l6rhaq3TCHO</eid>
+              <eid>hsTynLeHlUP_MNvQTwun3JC</eid>
               <linked>
                 </linked>
               <text>change.</text>
               </Lyrics>
             <Note>
-              <eid>JD3UmZ+83PB_UDDTg3foPfG</eid>
+              <eid>+fqDoqFtD7C_ASD3bTP/BtG</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
-              <eid>SVy2nw7XIMN_z8D6YsYftLM</eid>
+              <eid>T7XYRQXTAbH_78veUCckWDP</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
-            <eid>FmxdHV12U4E_o+0j7ZJtOAO</eid>
+            <eid>N1NZEnwRvtO_tZoCZ6FRmvI</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
@@ -1054,93 +1047,97 @@ Don B.A. Hader</text>
           </voice>
         </Measure>
       <Measure>
-        <eid>P22wq9CVip_lq78akROyAN</eid>
+        <eid>zxXIMIROM9K_9UKZzghqU3F</eid>
         <endRepeat>2</endRepeat>
+        <LayoutBreak>
+          <eid>c29wofJQ8tD_CzJG6oxvU8</eid>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
-            <eid>swk9UhX+olD_mmbdocO6fdM</eid>
+            <eid>uBrgG04XzrP_o9MZeyGNGEH</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>UWuyy4J0xSM_y/9CvtXsdi</eid>
+              <eid>QwfaM9GJqqC_UckHqZ3t6RP</eid>
               <linked>
                 </linked>
               <text>We</text>
               </Lyrics>
             <Note>
-              <eid>uvX2frLYJCB_ep1UKjri3JM</eid>
+              <eid>wRZqeOYJoQE_9T0ZwuyVjGJ</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>BtRVaWh9J9M_wz6vCw6ctdH</eid>
+            <eid>M51ZJtw3c9E_TammoYZJzDK</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>awU6E2iVvGG_actmt8p72WJ</eid>
+              <eid>0a9JqbmZOhI_GrVwDideU7H</eid>
               <linked>
                 </linked>
               <text>are</text>
               </Lyrics>
             <Note>
-              <eid>Ja84K1cp+nD_igk5lux9FBL</eid>
+              <eid>PFehXxiVBWO_eU+nQQ/5tF</eid>
               <linked>
                 </linked>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>zAzt0+7AWCN_j1F+1WKJFwI</eid>
+            <eid>BSBfV4VaajP_yX3WMayw8xG</eid>
             <linked>
               </linked>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>/2Xbp9RbBNH_8agRGpXGllL</eid>
+              <eid>rQJ/ZlEAHlH_ejrB4f5FWxI</eid>
               <linked>
                 </linked>
               <text>the</text>
               </Lyrics>
             <Note>
-              <eid>C5jrmVmDys_4oUI3N9UItC</eid>
+              <eid>223n5mhttvH_EYTcU8QTm+N</eid>
               <linked>
                 </linked>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>8e5XViY3SyC_FtFXFRLBJLN</eid>
+            <eid>2Byi+hbWbEE_mSvtnvSr1XD</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>Niq9GjMO8ED_dZUT1IAPv/H</eid>
+              <eid>Hu+uoutEdiF_RLus8cTpftG</eid>
               <linked>
                 </linked>
               <text>change!</text>
               </Lyrics>
             <Note>
-              <eid>uRwVkmzyzDM_Gkbpe6IPF0F</eid>
+              <eid>e7MhKBo1rTC_Q3h64PdEiOJ</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
-            <eid>QfzgxG46wGO_ec/4TIdOc+J</eid>
+            <eid>xuL6uQTrOrB_PayzGbC7GtK</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
@@ -1148,138 +1145,138 @@ Don B.A. Hader</text>
           </voice>
         </Measure>
       <Measure>
-        <eid>t+38jWYwsjD_Cmf/R/otH2B</eid>
+        <eid>Gx9FNo0NwwD_FvJ+Wmf6YhN</eid>
         <startRepeat/>
         <voice>
           <RehearsalMark>
-            <eid>usIu1Rz7K6K_32DbobXNBYG</eid>
+            <eid>FUuDoYPKOIL_RKwyJCt8sUJ</eid>
             <linked>
               <location>
-                <staves>-4</staves>
+                <staves>-6</staves>
                 </location>
               </linked>
             <text>2</text>
             </RehearsalMark>
           <StaffText>
-            <eid>DpJOjADslCL_pI1yycgoHOL</eid>
+            <eid>jZm2m9+N8xH_D0TfvXrM4dP</eid>
             <linked>
               </linked>
             <italic>1</italic>
             <text><i> Call</i></text>
             </StaffText>
           <Rest>
-            <eid>iOQnM2UTUdB_Gu5iBEn/MO</eid>
+            <eid>ci3EnLoI3bD_5LABIP9F0MD</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
-            <eid>3ZKU1hrZsGJ_ZqZAgfkWY2L</eid>
+            <eid>2hFg7h0paXE_UlXfG4yGdvP</eid>
             <linked>
               </linked>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>umYrN8hFZZG_8AkpvWklbPM</eid>
+              <eid>fsA9zPTXFvH_naDAo420MGG</eid>
               <linked>
                 </linked>
               <text>You've</text>
               </Lyrics>
             <Note>
-              <eid>e9E14lgD20H_mcCgcgYOU8K</eid>
+              <eid>vlE6vM1KC6I_B6inhqYeRML</eid>
               <linked>
                 </linked>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>AxneblrNMDH_Hts9JcO5kxH</eid>
+            <eid>1wG6ekIBAEG_jG66LmDwW5G</eid>
             <linked>
               </linked>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>j97EIseT4wD_LRpn88MSedM</eid>
+              <eid>RdgokSJtRtJ_WXzlvetQroK</eid>
               <linked>
                 </linked>
               <text>got</text>
               </Lyrics>
             <Note>
-              <eid>Qx6soPkRG0C_H08w4l/NDZG</eid>
+              <eid>4l94oe70utE_yFjH3s1mzJ</eid>
               <linked>
                 </linked>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>9Wyq7SudLyK_C3Uxo/ZX/BP</eid>
+            <eid>o5Zn18rFGqP_hwo3ytM6ITI</eid>
             <linked>
               </linked>
             <durationType>16th</durationType>
             <Lyrics>
-              <eid>qwrB+WtKhiG_y7IS3hWey6G</eid>
+              <eid>CFpxRtYQ9UO_MR2HX+qVmUD</eid>
               <linked>
                 </linked>
               <text>the</text>
               </Lyrics>
             <Note>
-              <eid>bL8lkwbh2aF_xZaskJxAVoD</eid>
+              <eid>L8OXixoTSTO_l/P3pp2WSQ</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>e7hBf7C+KhO_OupmpPd4R5H</eid>
+            <eid>fG3MbcXRx7_l60pFgSfMzN</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <eid>ZbJ3RmftSGN_XnpCw+OegAG</eid>
+              <eid>MKH75iTui9G_bZX5rJMnH2E</eid>
               <linked>
                 </linked>
               <text>pow</text>
               </Lyrics>
             <Note>
-              <eid>pPrpZ7K+WJK_tFXIS3oOTBI</eid>
+              <eid>qegSDQ170ME_g4L7+ZcD8NP</eid>
               <linked>
                 </linked>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>FrcygkhLhrI_3bgbZja8dxP</eid>
+            <eid>YDh+5hprWeB_6O3E1djSY5J</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <eid>CzydFlV8NRF_NrOTLgouh9H</eid>
+              <eid>TFNAoaKsinN_FL07YTA+nuE</eid>
               <linked>
                 </linked>
               <text>er!</text>
               </Lyrics>
             <Note>
-              <eid>08xuiHfkobO_zVbQJ+HOP</eid>
+              <eid>GsU8KMFJHlL_GTmI3m/OOpG</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
-            <eid>nGpcHdKWtiB_zczaoV2XiHJ</eid>
+            <eid>Sh27QoUzk3L_Pwz2slZ6rTM</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
@@ -1287,174 +1284,174 @@ Don B.A. Hader</text>
           </voice>
         </Measure>
       <Measure>
-        <eid>saaI44ak7pK_OARGivvQUsH</eid>
+        <eid>XELc4+uxymF_pVF0zRikNrP</eid>
         <voice>
           <Rest>
-            <eid>rukRWO9YK1I_Xr1A8Je1rIL</eid>
+            <eid>dOX3ml0Tb8L_PUzDtnHQEMC</eid>
             <linked>
               </linked>
             <durationType>half</durationType>
             </Rest>
           <Rest>
-            <eid>iYCLfZW8HiN_r+JjHYHs1c</eid>
+            <eid>rFdqKJS6OjB_7z5q4n+gvOK</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
-            <eid>v6Qwus5dYVE_yHvtyjx1ZZK</eid>
+            <eid>YahT0MTeQsB_AyqPkaSwWlK</eid>
             <linked>
               </linked>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>bDjlG/I2g+P_WS97FSP3S8G</eid>
+              <eid>EQ5XgAAKOVJ_3FcppPJUwpB</eid>
               <linked>
                 </linked>
               <text>You've</text>
               </Lyrics>
             <Note>
-              <eid>gdWGboZAGwJ_5Uq1gINcvjF</eid>
+              <eid>ARp8HSTSHiL_P3dpjHSWUdE</eid>
               <linked>
                 </linked>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>dlzsiDKxKiE_CXso1cbmZUG</eid>
+            <eid>svmS8BAXd0F_eMqLzWh7x9E</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>W6KYX/OTDjG_pI4eiL3FQDD</eid>
+              <eid>o1qF+BhXdxB_Cl0K1WQ/wuF</eid>
               <linked>
                 </linked>
               <text>got</text>
               </Lyrics>
             <Note>
-              <eid>YMlJ+w6N+vL_hdGvI2hKKcE</eid>
+              <eid>C0sk1THXB9D_CoLB2wpAlQL</eid>
               <linked>
                 </linked>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>/5vCJUFplUN_mgZ36BZ6d1J</eid>
+            <eid>0P6WoqO6S9_R118QeAEfJP</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>P+iTc4+S2EK_+Qf5A2FY0K</eid>
+              <eid>iQCcyTbETMK_ig8nAPXB8oE</eid>
               <linked>
                 </linked>
               <text>the</text>
               </Lyrics>
             <Note>
-              <eid>tUCA/3TVfrN_j7MIYJDt3WK</eid>
+              <eid>5dOL7EYtu9J_VrznVgzcWBN</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
-        <eid>kAAGNBjaG0_PYPDXFfXmsO</eid>
+        <eid>Xxg19MJSNMB_zYtEnc4rp7H</eid>
         <voice>
           <Chord>
-            <eid>3Sbo7IsifgM_b+TFPYMmXCF</eid>
+            <eid>zu1HX0KQ6HO_R/zirc3+xI</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <eid>RqlYesIlZgG_sHAiMptufkJ</eid>
+              <eid>NSkAnb0gHlF_AohRlDkStFF</eid>
               <linked>
                 </linked>
               <offset x="0.2" y="3"/>
               <text>pow</text>
               </Lyrics>
             <Note>
-              <eid>4/DfuOYuyhJ_fs3N4xEuGfD</eid>
+              <eid>vVvdl2b0K3D_i5T7TCMgA3C</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>i0SJoykrmZF_GijTICXhYJN</eid>
+            <eid>FHNqtHJpYXO_alIueaTZU4K</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <eid>xkY67i4P58E_l3tfsRr4euN</eid>
+              <eid>Fjrw3AI77bN_Htm84Tfy3eK</eid>
               <linked>
                 </linked>
               <offset x="-0.3" y="3"/>
               <text>er</text>
               </Lyrics>
             <Note>
-              <eid>xuI5uO3R2tB_aRS1x3NfgZ</eid>
+              <eid>7yjDKhrEbVK_BLcgqZL59vD</eid>
               <linked>
                 </linked>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>ehMMx0m+pYF_DRuGT49RoTN</eid>
+            <eid>ikGCXBkm/oH_wv2TCfFQ5cB</eid>
             <linked>
               </linked>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>7ECJb2e8ZcE_bk0AOEe4JhK</eid>
+              <eid>WUZAh3j+vx_MUER0M7xcAH</eid>
               <linked>
                 </linked>
               <text>in</text>
               </Lyrics>
             <Note>
-              <eid>nq8hTzQPV7E_u73iAXE0dMG</eid>
+              <eid>6ZZCZ9KclVF_jesQT+h/GnJ</eid>
               <linked>
                 </linked>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>VDRpJ5xRSdO_WiO8bBQu50L</eid>
+            <eid>6l2IfM50sCO_s9A74KEwWB</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>BU8TXMb3mMC_RXpDX+rYziP</eid>
+              <eid>opbIEw1zkZP_Z9mP6i7aROP</eid>
               <linked>
                 </linked>
               <text>you!</text>
               </Lyrics>
             <Note>
-              <eid>RFJR/g+X1bG_65Yvd7qYeeG</eid>
+              <eid>+HMisrfkrVP_n/HNNJ3ghxI</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
-            <eid>g5M0W3P2L6C_3jqug36CnvC</eid>
+            <eid>kW5UyETWtrD_HSXwiDV46VI</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
@@ -1462,10 +1459,10 @@ Don B.A. Hader</text>
           </voice>
         </Measure>
       <Measure>
-        <eid>PweVQJ4xrlN_4pYeEkjrklJ</eid>
+        <eid>ExCi/cbr9dP_YYea/6DUzQK</eid>
         <voice>
           <Rest>
-            <eid>/SGk6i4Vk0B_hCICe40Yt7C</eid>
+            <eid>OtpVCB8zFrK_G0IWpfREJsH</eid>
             <linked>
               </linked>
             <durationType>measure</durationType>
@@ -1474,121 +1471,121 @@ Don B.A. Hader</text>
           </voice>
         </Measure>
       <Measure>
-        <eid>JFlYi9hpdtF_FrY8hL5EBI</eid>
+        <eid>eQYZvyVqBTJ_NE/VQ1TzN9D</eid>
         <voice>
           <Rest>
-            <eid>wkQpOcoMhO_lW26dl2pchP</eid>
+            <eid>01Em0ieeXqC_JvfMKZ7HnGB</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
-            <eid>gyv8HCFbk2E_V0t4T4FICGB</eid>
+            <eid>mVgVxN8pcxJ_fHzXdivXxxD</eid>
             <linked>
               </linked>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>c/fSnHGUA6P_xILKgZwbSiL</eid>
+              <eid>QV7IpNN/bsH_i1JQ2upa81F</eid>
               <linked>
                 </linked>
               <text>You've</text>
               </Lyrics>
             <Note>
-              <eid>weeWQdbFtxG_vxQA3KMMz6K</eid>
+              <eid>wPgrFjCoYRG_Tf/hj8h5xwJ</eid>
               <linked>
                 </linked>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>A/M6HQ288NG_Lcikx3yQH7G</eid>
+            <eid>TrvaiQC8dLB_5Nf1kzv2bnF</eid>
             <linked>
               </linked>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>jV6WLTtRXZ_oDsKZdmEFZP</eid>
+              <eid>VR6RR6qhjXM_8l5cNbrSmlB</eid>
               <linked>
                 </linked>
               <text>got</text>
               </Lyrics>
             <Note>
-              <eid>cVHa1Yz/FsN_bAfK+t2sOrK</eid>
+              <eid>fV4sZKv9quG_wRqGBT7279K</eid>
               <linked>
                 </linked>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>0DZQO++D2oB_RbRnWOCdwxO</eid>
+            <eid>bu0c9+c8vOC_LAaXD5FIznL</eid>
             <linked>
               </linked>
             <durationType>16th</durationType>
             <Lyrics>
-              <eid>zC9arXaRynK_6hpdq13M2AE</eid>
+              <eid>4PfdU/NtNHO_Befg/KkdxAI</eid>
               <linked>
                 </linked>
               <text>the</text>
               </Lyrics>
             <Note>
-              <eid>q8oZoeuSUZN_ggRI0xE4HlG</eid>
+              <eid>tJ1+OwKieeG_yAONHh0trSO</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>+GooQ5YFdDB_qVqWDTtMRSN</eid>
+            <eid>pBh3nTUnMsM_xaJTTfVNG9H</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <eid>Ms79St4gViC_zJPya6FAd6C</eid>
+              <eid>Uj2Vf9oqGhH_8Xks8Je9E4N</eid>
               <linked>
                 </linked>
               <text>pow</text>
               </Lyrics>
             <Note>
-              <eid>Ae3u719u4pJ_oWZDVvJS8DI</eid>
+              <eid>px3kk8IgG6G_qVvqRG6cdvO</eid>
               <linked>
                 </linked>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>+nOB1Yi5f7B_c/x5W9beVPL</eid>
+            <eid>AtTmNtYOmsP_QMOWyjr2FtH</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <eid>W7BbMUqOlwF_OE3ogjr9kxJ</eid>
+              <eid>4cW4YRTi24G_cPF7sFV/DcF</eid>
               <linked>
                 </linked>
               <text>er!</text>
               </Lyrics>
             <Note>
-              <eid>I8xPZ6ZDn7I_vz2Al9BOzfG</eid>
+              <eid>bZ930CM0doO_ZFEnRdbMB2H</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
-            <eid>kKsVhn2pP2_zuUILBeTtg</eid>
+            <eid>RgiXkrwAN1D_U9fWrmZ7+dJ</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
@@ -1596,10 +1593,10 @@ Don B.A. Hader</text>
           </voice>
         </Measure>
       <Measure>
-        <eid>C+eFt24Se7E_fIY4+zuKL/G</eid>
+        <eid>JDLiGfC/KmL_B7/UKCBoxWL</eid>
         <voice>
           <Rest>
-            <eid>L7dsfre6rWO_W8Vl0ZmzsIB</eid>
+            <eid>ccFwIRpP6lD_XdenpKNgcjN</eid>
             <linked>
               </linked>
             <durationType>measure</durationType>
@@ -1608,230 +1605,230 @@ Don B.A. Hader</text>
           </voice>
         </Measure>
       <Measure>
-        <eid>tTfFXiuiBpL_e2vIzOTH+MP</eid>
+        <eid>Uofx50KuuSC_pNYiV/2NIEN</eid>
         <voice>
           <Rest>
-            <eid>k2CEVbxaWKJ_/zXUrJJ9b1E</eid>
+            <eid>aNUwZwPqzbL_AOK7nrTZmsI</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
-            <eid>BlI77piHZqK_e5v+QRpnXjB</eid>
+            <eid>7P0hhyinD6N_kinDCTYfXNH</eid>
             <linked>
               </linked>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>pp69qtJZR9E_M7yQ7EWQ6eJ</eid>
+              <eid>T4jDLa8wGBJ_0+hkIWUxm1L</eid>
               <linked>
                 </linked>
               <text>We</text>
               </Lyrics>
             <Note>
-              <eid>80deA9hlEMH_HAq2Q9CD13K</eid>
+              <eid>W8HMbxt+Q4D_R1XdGLpIoSJ</eid>
               <linked>
                 </linked>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>GagTUQeicpL_DJaDibCdy8P</eid>
+            <eid>V8r2NZ5+lML_eRBNVmRqCJJ</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>ANM/EF8ipPG_4OovyIMoEEJ</eid>
+              <eid>1FzxBgn0zfC_+rcGwHwV+oN</eid>
               <linked>
                 </linked>
               <text>are</text>
               </Lyrics>
             <Note>
-              <eid>ANQG8Guzp2M_dSQ4QsUWtsE</eid>
+              <eid>9aWPOO7JBhJ_C6UOYhdP+vE</eid>
               <linked>
                 </linked>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>Z13jn8rGtnP_pAoSGNmUQmJ</eid>
+            <eid>ad60X3PybiM_bvR0DUVe+tP</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>pXFtC/VmSWI_1eQKdBZhnQK</eid>
+              <eid>0FyHlghGXnP_B2dkJZBCXEC</eid>
               <linked>
                 </linked>
               <text>the</text>
               </Lyrics>
             <Note>
-              <eid>kt0JQWIXlN_VJ2ZFGRYvcL</eid>
+              <eid>NWtWG9iPWBI_f2dNVFxjRpN</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>8hX7P9yD2kC_++CBBHjwc2O</eid>
+            <eid>F5OKAfL2qDD_ffI92T2vy1O</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <eid>pTwWCCwdQnE_Gsh36Ro7qIP</eid>
+              <eid>X1863mY2OkC_pZOO5SHAa5B</eid>
               <linked>
                 </linked>
               <text>fu</text>
               </Lyrics>
             <Note>
-              <eid>KIYjZwDI5bG_ENzm1iEscHD</eid>
+              <eid>L+K7/fcrBN_oG5lubERr8P</eid>
               <linked>
                 </linked>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>oWvzE3Kft7B_KxqK5oEN3GO</eid>
+            <eid>jGYs9ejYweK_sxm0zV/TU6E</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <eid>8xBobrCkLV_5ITXzhmpc2G</eid>
+              <eid>7+M8fS+VzvG_K9miRYdClTB</eid>
               <linked>
                 </linked>
               <text>ture,</text>
               </Lyrics>
             <Note>
-              <eid>z4oIw7tHzzH_TE79sgymuzB</eid>
+              <eid>aUz8xbnHjAL_jz6ii/fZVxK</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>PyxdigT0aJH_BBv43Y7mlY</eid>
+            <eid>tq0VFy0NdO_BxrxB/UTokL</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>wNJv7doQrNB_MA7CxsyR6nH</eid>
+              <eid>YSV4lA8xMuI_zp0uLA2KyIP</eid>
               <linked>
                 </linked>
               <text>let's</text>
               </Lyrics>
             <Note>
-              <eid>1ObIcDVzkVL_vDzDEW97UTI</eid>
+              <eid>nu9JJw5HePI_iLbbbssygFB</eid>
               <linked>
                 </linked>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
-        <eid>LGTL56BDrkI_NEflZHAdsdB</eid>
+        <eid>aOuh3LHPcgO_A+Yd+Wd6XMC</eid>
         <endRepeat>2</endRepeat>
         <voice>
           <Chord>
-            <eid>Xn+jI2dUfkF_ctdj2ykIjHF</eid>
+            <eid>KIZfEvxf1cL_TjaQ2bkSstH</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>FtHmPR5PEDO_DYJppNx/oXI</eid>
+              <eid>8o/7RX01WtM_IlZ+714to5H</eid>
               <linked>
                 </linked>
               <text>be</text>
               </Lyrics>
             <Note>
-              <eid>wDF61wnHA9B_RUqHu6Xv4LN</eid>
+              <eid>okclsl0KZlH_G2ZSWT46HrN</eid>
               <linked>
                 </linked>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
-              <eid>8OLUb3AfTG_G/N0FDhT5eH</eid>
+              <eid>NjQfLkGV8kM_e5D8sMGA7ZB</eid>
               <linked>
                 </linked>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>CCbBF2uNYwK_54Oo5NHbXu</eid>
+            <eid>Jzodr/D+JyJ_gOXHEccKex</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>h42ivQU/AEK_2y/7Rpd9KOF</eid>
+              <eid>Zc9EUOlYXjF_LLmq7LKyXkN</eid>
               <linked>
                 </linked>
               <text>the</text>
               </Lyrics>
             <Note>
-              <eid>c5FGiC9C5hP_LMhVGpSHdxE</eid>
+              <eid>AvPA78aaxjH_BE8kLwVzbPF</eid>
               <linked>
                 </linked>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>15</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
-              <eid>g0oDbhZuosF_Pz8DCliA6OH</eid>
+              <eid>Vazb8HQGYOC_02x6HhpeXXJ</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>bYCfV7QD29P_ar+x5RJHr2O</eid>
+            <eid>p4+ZQ0U8zHE_AIA4WBBp0DC</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>VpqjvrgmxuH_ZwXmZDBWteH</eid>
+              <eid>0HQqLsfgD7G_G51Ts9RKC+M</eid>
               <linked>
                 </linked>
               <text>change!</text>
               </Lyrics>
             <Note>
-              <eid>7fFnjDv0mrN_zrZZjXQC+yC</eid>
+              <eid>7eaLv6va0tK_jZ0Lg13R/UH</eid>
               <linked>
                 </linked>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>15</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
-              <eid>OD5f2VIokf_YCD5YcYvvHL</eid>
+              <eid>ErgVV9vhES_C17vN8jNEzC</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
-            <eid>eZ9fW1mSxwO_0Lb/ClNxOn</eid>
+            <eid>R/+DpLOIIOG_i2w5iviAsvG</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
@@ -1843,21 +1840,21 @@ Don B.A. Hader</text>
       <Measure>
         <voice>
           <KeySig>
-            <eid>C7Dj3/Yfqg_+7Up7/k8ZrK</eid>
+            <eid>BaLW5via+XB_7qQEk985yzE</eid>
             <linked>
               </linked>
-            <concertKey>-3</concertKey>
-            <actualKey>0</actualKey>
+            <concertKey>-1</concertKey>
+            <actualKey>1</actualKey>
             </KeySig>
           <TimeSig>
-            <eid>cB7D6P9hHbG_u6jFqJlg2mM</eid>
+            <eid>t0i6caz4qLF_LyUHMyLhqtJ</eid>
             <linked>
               </linked>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <Rest>
-            <eid>t0RMM6l+tqC_jKWGf6HUAhG</eid>
+            <eid>wkBEyvX6QxI_dCdhObciDGO</eid>
             <linked>
               </linked>
             <durationType>measure</durationType>
@@ -1868,7 +1865,7 @@ Don B.A. Hader</text>
       <Measure>
         <voice>
           <Rest>
-            <eid>PVxDsqi/YfG_nsuwZZlTa+C</eid>
+            <eid>Ufnl1iSGmRM_l6K3wklY8NM</eid>
             <linked>
               </linked>
             <durationType>measure</durationType>
@@ -1879,7 +1876,7 @@ Don B.A. Hader</text>
       <Measure>
         <voice>
           <Rest>
-            <eid>4/X8l/tr/ZO_qFygVAszkkB</eid>
+            <eid>rgfb6GGvf4P_vujXjtTKQeD</eid>
             <linked>
               </linked>
             <durationType>measure</durationType>
@@ -1890,7 +1887,7 @@ Don B.A. Hader</text>
       <Measure>
         <voice>
           <Rest>
-            <eid>V/8pYSqiG9K_TYYShj1YtRO</eid>
+            <eid>lNGS80mUhuL_91tXnbOvxNJ</eid>
             <linked>
               </linked>
             <durationType>measure</durationType>
@@ -1901,7 +1898,7 @@ Don B.A. Hader</text>
       <Measure>
         <voice>
           <Rest>
-            <eid>tQRHns68nCL_2PLLzh0TXyE</eid>
+            <eid>YKOrE4eBtdM_uXsQo0R1WIM</eid>
             <linked>
               </linked>
             <durationType>measure</durationType>
@@ -1912,7 +1909,7 @@ Don B.A. Hader</text>
       <Measure>
         <voice>
           <Rest>
-            <eid>mZq3N3k3E3P_QEyG9xkwi1P</eid>
+            <eid>YCO6wji/hcI_x3o58yYC0LN</eid>
             <linked>
               </linked>
             <durationType>measure</durationType>
@@ -1923,7 +1920,7 @@ Don B.A. Hader</text>
       <Measure>
         <voice>
           <Rest>
-            <eid>2UMctSN+CsI_IAZPukByrDC</eid>
+            <eid>LVLVvN0UUJH_wDg3Q9zseOM</eid>
             <linked>
               </linked>
             <durationType>measure</durationType>
@@ -1934,7 +1931,7 @@ Don B.A. Hader</text>
       <Measure>
         <voice>
           <Rest>
-            <eid>Hvqe2EIoq1_1E0uc5KaSiG</eid>
+            <eid>/qIb99TfRTG_Nablx37BvFO</eid>
             <linked>
               </linked>
             <durationType>measure</durationType>
@@ -1945,7 +1942,7 @@ Don B.A. Hader</text>
       <Measure>
         <voice>
           <Rest>
-            <eid>JvlYqgeabfG_4GlEjjwtKKP</eid>
+            <eid>bm9fYvmh1FF_4KwxmUbiIOB</eid>
             <linked>
               </linked>
             <durationType>measure</durationType>
@@ -1956,210 +1953,91 @@ Don B.A. Hader</text>
       <Measure>
         <voice>
           <StaffText>
-            <eid>bxUWe+pGcrI_zLa5zhG/1iO</eid>
+            <eid>x1LMCJXIt9B_24H5/hpkLOP</eid>
             <linked>
               </linked>
-            <positionLinkedToMaster>0</positionLinkedToMaster>
-            <minDistance>-0.2</minDistance>
             <italic>1</italic>
-            <offset x="0" y="-2.04542"/>
             <text><i>Response</i></text>
             </StaffText>
           <Chord>
-            <eid>rL6IYuPsupP_gba7F6ns52G</eid>
+            <eid>rSE0jo1OrAK_WkHJDuewsDK</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>ZsrVpL9UNmI_FCRtXKgaf/H</eid>
+              <eid>Hnx1/tdw9a_qnfG3Nml6RL</eid>
               <linked>
                 </linked>
               <text>Be</text>
               </Lyrics>
             <Note>
-              <eid>xMgnP4fm7LP_rXXCy+VntRF</eid>
+              <eid>RPbUAXkpY+I_oCGVgq7L93L</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            <Note>
-              <eid>NEDOEjXdEWE_qFqjkCzv/GI</eid>
-              <linked>
-                </linked>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>EujPoTmbaeE_D2N5KYA7xZO</eid>
+            <eid>CR8tCSc9AkJ_tgLP1HVnCxK</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>nspFKgInzFM_TctEu6RpgWE</eid>
+              <eid>csqzH2k6n4B_TqTFy6h0NsC</eid>
               <linked>
                 </linked>
               <text>the</text>
               </Lyrics>
             <Note>
-              <eid>No/FgPa4DZP_7HiqNaDcniC</eid>
+              <eid>LZx3LBJCgpO_dFy/iKuP4jD</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
-              </Note>
-            <Note>
-              <eid>ILr7shjvtMB_WJIc9zjF3EK</eid>
-              <linked>
-                </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <eid>7yKjrWhb+NL_Ej98VTRedSM</eid>
-            <linked>
-              </linked>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            <Lyrics>
-              <eid>bOeD+V1+ZIN_lQS6htFfaYB</eid>
-              <linked>
-                </linked>
-              <text>change.</text>
-              </Lyrics>
-            <Note>
-              <eid>Y1GgpmAD/XP_dIHRGZm036G</eid>
-              <linked>
-                </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
-              </Note>
-            <Note>
-              <eid>8nEwZsVgnhN_iV4ajg23OzJ</eid>
-              <linked>
-                </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <eid>8UH1vccDDVN_2uL8v+kAaVM</eid>
-            <linked>
-              </linked>
-            <durationType>quarter</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <eid>Zksmr5cNrDP_U2ZsHn8vOZO</eid>
-            <linked>
-              </linked>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <eid>3eFYNDYoGpE_bqHmxHtxUFM</eid>
-            <linked>
-              </linked>
-            <durationType>quarter</durationType>
-            <Lyrics>
-              <eid>NWzw0LOqUWM_di/71dzIY9L</eid>
-              <linked>
-                </linked>
-              <text>Be</text>
-              </Lyrics>
-            <Note>
-              <eid>05oTOZPJRFH_5nPbqEQdVkE</eid>
-              <linked>
-                </linked>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              <tpc2>13</tpc2>
-              </Note>
-            <Note>
-              <eid>NuKnFPgD3aF_tAHn/uVcKIE</eid>
-              <linked>
-                </linked>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               <tpc2>16</tpc2>
               </Note>
-            </Chord>
-          <Chord>
-            <eid>Zn1uEyqJiDF_yX1hWcOT+qB</eid>
-            <linked>
-              </linked>
-            <durationType>eighth</durationType>
-            <Lyrics>
-              <eid>aH9m+eNVYTK_WiPIcuAbmRF</eid>
-              <linked>
-                </linked>
-              <text>the</text>
-              </Lyrics>
             <Note>
-              <eid>G+V7CxdpLSB_xUxWzR852QO</eid>
+              <eid>kWVgNf6KoCO_4B0ZHcFkvCN</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
-              </Note>
-            <Note>
-              <eid>SQdei9K519G_fYLv2t7z5AC</eid>
-              <linked>
-                </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>vPLIp3gqU4M_pGgblE45jsI</eid>
+            <eid>D8icMrIOeEN_Hc28qyZO92</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>YKdHzLVQpAO_tdd99w1GcnD</eid>
+              <eid>n7qGfCLs05P_6Kmn0pYvvfM</eid>
               <linked>
                 </linked>
-              <positionLinkedToMaster>0</positionLinkedToMaster>
-              <offset x="0.4" y="3"/>
               <text>change.</text>
               </Lyrics>
             <Note>
-              <eid>aa0a+Cm5RBM_69b9hBRAQ8J</eid>
+              <eid>0lV33+FTwGF_czLwoLKmjlH</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
-              <eid>5r/hXcHj5UK_Xh/VcNz3kJM</eid>
+              <eid>MZdoankEB6E_22QGZq4YYOP</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
-            <eid>fpTZHjE6q5N_Hz/E4VJ/bVB</eid>
+            <eid>B52BWx02KhL_bYuR52NaOaO</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
@@ -2169,7 +2047,7 @@ Don B.A. Hader</text>
       <Measure>
         <voice>
           <Rest>
-            <eid>1yqMkLln95B_9X5KCJUu8zB</eid>
+            <eid>ITc0GOrfkLI_zHr3XYTX0kE</eid>
             <linked>
               </linked>
             <durationType>measure</durationType>
@@ -2180,92 +2058,92 @@ Don B.A. Hader</text>
       <Measure>
         <voice>
           <Chord>
-            <eid>CNPKO23TLSB_ffCz/YUcCY</eid>
+            <eid>wI+k+9BlOS_MMl6f5xZ1UL</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>1yHfOK9vE0_k5JVbb0ugyB</eid>
+              <eid>JkyS5ZLhExL_ZT1K2ZU+y8G</eid>
               <linked>
                 </linked>
               <text>Be</text>
               </Lyrics>
             <Note>
-              <eid>V7qCeajhcNE_pODi9QL+JqD</eid>
+              <eid>v8h2a25O8ZM_cdpAuVkE3IF</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
-              <eid>Fnk4qOZOESP_MG1e5kXXFtK</eid>
+              <eid>hMGnTBu3oOO_92ZlolVWFMK</eid>
               <linked>
                 </linked>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>qOlm44xzN9H_qD965B5rwLL</eid>
+            <eid>OR6+BHHApd_giWKZGZcEiB</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>RHHf5q9qLYH_Z3pcKT+VZFI</eid>
+              <eid>7bsu4bseeqG_B/yNk8cc42F</eid>
               <linked>
                 </linked>
               <text>the</text>
               </Lyrics>
             <Note>
-              <eid>wzkqXO/MW3F_AsxfMYaSScF</eid>
+              <eid>iEGVMA84B6_eyQH25MTZ6J</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
-              <eid>q34iMof//mN_R8wsbI4gu9H</eid>
+              <eid>+ytU8LboVvM_ig/KnIbekjH</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>ZFSjYmlXBwM_fFdeFeWDesE</eid>
+            <eid>qSwYtOfFk0G_j4525Mul92P</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>aCpKG3x5StD_M2ES3WPn10C</eid>
+              <eid>J74LTKsfzBK_+qVRZQqZT8E</eid>
               <linked>
                 </linked>
               <text>change.</text>
               </Lyrics>
             <Note>
-              <eid>Ag4LpHp6X0J_lW9sQYAeCnG</eid>
+              <eid>rzXwN8XqUpG_FltqgC959rF</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
-              <eid>UCCPa6JDCNL_Gfw1RrtnP5G</eid>
+              <eid>+sgSqTfke6K_Cjt9sJsxDkL</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
-            <eid>wBnSyWaFqqD_mWULDx2ucAB</eid>
+            <eid>4IOPs1fDPWD_4aZMbt67ZTO</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
@@ -2275,132 +2153,230 @@ Don B.A. Hader</text>
       <Measure>
         <voice>
           <Rest>
-            <eid>Sc9cpDH9yAB_z7c5hFGETO</eid>
+            <eid>HBLxcFpm2bC_+aljxqgAVRC</eid>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <eid>4AHG0XT0s4E_9zKf8E/CU0J</eid>
+            <linked>
+              </linked>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <eid>5Ujunpv7x5F_MJl1zr9ja6M</eid>
+              <linked>
+                </linked>
+              <text>Be</text>
+              </Lyrics>
+            <Note>
+              <eid>tw0qnEkaiiC_fTTg+mf/RCO</eid>
+              <linked>
+                </linked>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>JH6JQOQNAyM_HUcBNvqCjkC</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <eid>dsKMwUw50gN_L8pX+pH4cRC</eid>
+              <linked>
+                </linked>
+              <text>the</text>
+              </Lyrics>
+            <Note>
+              <eid>M6ECF3gW82G_RSpjixrkiOF</eid>
+              <linked>
+                </linked>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
+              </Note>
+            <Note>
+              <eid>pEg/6wJg1XJ_XBwDkaY2jHL</eid>
+              <linked>
+                </linked>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>k7esv13JEwB_c3YucvOIAOK</eid>
+            <linked>
+              </linked>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <eid>6K35s4ns/1J_wHGZzweNNbB</eid>
+              <linked>
+                </linked>
+              <text>change.</text>
+              </Lyrics>
+            <Note>
+              <eid>pulAcSsWkiF_kto4/vf12tG</eid>
+              <linked>
+                </linked>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
+              </Note>
+            <Note>
+              <eid>uVP3ifVvI9I_qQb4F+XNqmO</eid>
+              <linked>
+                </linked>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <eid>nUMURK6S6RE_aoJoiO78yzK</eid>
+            <linked>
+              </linked>
+            <durationType>quarter</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <eid>x7cvWXv70uM_ZOKoKFCcwQO</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
-            <eid>a8f29xm+WEH_ryMMWt2tXpD</eid>
+            <eid>ODvXCSfFNWE_fPa6XPeZ5nI</eid>
             <linked>
               </linked>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>9N3wu9jC/d_3W4AEmUcI2L</eid>
+              <eid>z7N6PS7EITB_Fjvob5hJlNG</eid>
               <linked>
                 </linked>
               <text>We</text>
               </Lyrics>
             <Note>
-              <eid>CtaftpLGSUL_XDQKIIQppuD</eid>
+              <eid>42TmZu7MNgM_n2fB990NirB</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>ueLtvXYwA+N_pIYsuhv11AG</eid>
+            <eid>0yBtTeh+uCH_dQPBFtgOYLP</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>JoOhaurSO5C_DKiuSR5CqEE</eid>
+              <eid>bCg3ScVds1D_VyNr0z8wZiH</eid>
               <linked>
                 </linked>
               <text>are</text>
               </Lyrics>
             <Note>
-              <eid>jaNwjiVGdjE_1vRr0+BQDMN</eid>
+              <eid>VgCfsH72fqH_UB4Scm7dCbJ</eid>
               <linked>
                 </linked>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>AlSU1WcgcpM_jYp1oWYZmYO</eid>
+            <eid>KxyQQGpfuQG_PnOBPaLakQL</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>7hOJuYrWSqP_AkVmCRoYUtH</eid>
+              <eid>AlI0qbnUVYC_1+jkvJcXwoN</eid>
               <linked>
                 </linked>
               <text>the</text>
               </Lyrics>
             <Note>
-              <eid>4jcBWEkPSTB_5EwWq+h0ouM</eid>
+              <eid>gsq5cZA4qyN_43+EwEm1GDM</eid>
               <linked>
                 </linked>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>15</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>KsjJvjY4UuO_dv5ByA7NBq</eid>
+            <eid>iqM1YmKFKfK_KC++/1T3/SH</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <eid>rf7RL1yrGsP_Yuzl7Kx2IaJ</eid>
+              <eid>lDjeSK0QkV_gbxjUpgOi9</eid>
               <linked>
                 </linked>
               <text>fu</text>
               </Lyrics>
             <Note>
-              <eid>qnBWg9+YVdD_ocCrovp9yTI</eid>
+              <eid>8j4/3HBToLE_+iBIqbV79JO</eid>
               <linked>
                 </linked>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>i2vwy9Jz63E_JNpVYXP45BJ</eid>
+            <eid>Atd4C9p5yZN_SAbzUUug8TP</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <eid>Y5Cb+7PprtN_/tjw4bRTBn</eid>
+              <eid>3Jev6/5uP4G_rqZUYm/3YoJ</eid>
               <linked>
                 </linked>
               <text>ture,</text>
               </Lyrics>
             <Note>
-              <eid>z1XFx6qyKWK_yl3OEPV5a/H</eid>
+              <eid>w3y4NepwJR_MNywo1whGaB</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>023nSeV0PbL_FWLQucKnkqK</eid>
+            <eid>X9PywFHrVnD_y/f3SHHIDqF</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>COTWLFZxWyE_Rk6eBxHRgPG</eid>
+              <eid>75AZpWEU24N_b7KWiRuCw2C</eid>
               <linked>
                 </linked>
               <text>let's</text>
               </Lyrics>
             <Note>
-              <eid>XSCKN7oBTtP_WGunLZoBykH</eid>
+              <eid>91kznnV0LpO_WMfDcxIpjWM</eid>
               <linked>
                 </linked>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -2408,94 +2384,92 @@ Don B.A. Hader</text>
       <Measure>
         <voice>
           <Chord>
-            <eid>v8frqfSsi6F_TeHMzIh8uBB</eid>
+            <eid>RsruqDInraB_8YVe7UK6ULK</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>cvB2himHlbL_OR6uTpKv96P</eid>
+              <eid>Di17FWQkmiD_cjv6g3LdrsJ</eid>
               <linked>
                 </linked>
               <text>be</text>
               </Lyrics>
             <Note>
-              <eid>FfiNgcRi78G_kvuxDNY9ovK</eid>
+              <eid>XdDVQSeAy7J_WKUATZDJHlP</eid>
               <linked>
                 </linked>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              <tpc2>13</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
-              <eid>mbnnyvCWqMC_FEGihpX9scI</eid>
+              <eid>pRZvopDP5XJ_YUOCfc+RkUE</eid>
               <linked>
                 </linked>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>NzABnOASIDG_eTpsFO8kxo</eid>
+            <eid>To4YlruIRvO_JD2A5hgNbhE</eid>
             <linked>
               </linked>
             <durationType>eighth</durationType>
             <Lyrics>
-              <eid>pGlHqztrN+N_pqcyfWSLZNI</eid>
+              <eid>uXXU0snZC/B_EHGseixF1iJ</eid>
               <linked>
                 </linked>
               <text>the</text>
               </Lyrics>
             <Note>
-              <eid>YTth6lJcuZD_3nNm9oNXv8J</eid>
+              <eid>8wUvkaTn7NK_ogEJOdvZP5L</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
-              <eid>Q39dtjh+O4O_ZevZX1aySnB</eid>
+              <eid>bPkddANZWnI_WLaWRlImFgK</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <eid>9+pj9jwFSJK_gMh1BwvpdhN</eid>
+            <eid>HGub1HsEiXO_R4Ahb+sHs5P</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <eid>X0Zf+QGd/rI_b7Yci8/un8K</eid>
+              <eid>HqinKbfP0KC_mbcXTOMq9bB</eid>
               <linked>
                 </linked>
-              <positionLinkedToMaster>0</positionLinkedToMaster>
-              <offset x="0.4" y="3"/>
               <text>change!</text>
               </Lyrics>
             <Note>
-              <eid>lpW4W56iPjD_tmbscPkVs0L</eid>
+              <eid>959xzBmpKdN_0CylNJXbvzF</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
-              <eid>guXn1s3ZSLH_GxSWjga9Z9E</eid>
+              <eid>Bf0WJwvxrCG_9fZveombesP</eid>
               <linked>
                 </linked>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
-            <eid>iGGFKpaCMMI_NipcGGDDzNG</eid>
+            <eid>yCr+ij6jZS_K4iXUUn3i9C</eid>
             <linked>
               </linked>
             <durationType>quarter</durationType>

@@ -51,50 +51,22 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
-                        "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "metronome",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 0
-            },
-            "partId": "999",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
                         "museCategory": "Muse Woodwinds",
-                        "museName": "Baritone Sax",
+                        "museName": "Tenor Sax",
                         "musePack": "Muse Woodwinds",
-                        "museUID": "132",
+                        "museUID": "131",
                         "museVendorName": "",
-                        "playbackSetupData": "winds.saxophone.baritone"
+                        "playbackSetupData": "winds.saxophone.tenor"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "Muse Woodwinds\\Baritone Sax\\132",
+                    "id": "Muse Woodwinds\\Tenor Sax\\131",
                     "type": "muse_sampler_sound_pack",
                     "vendor": "MuseSounds"
                 },
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "baritone-saxophone",
+            "instrumentId": "tenor-saxophone",
             "out": {
                 "auxSends": [
                     {
@@ -111,7 +83,7 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "6",
+            "partId": "5",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -164,21 +136,21 @@
                 "resourceMeta": {
                     "attributes": {
                         "museCategory": "Muse Woodwinds",
-                        "museName": "Tenor Sax",
+                        "museName": "Baritone Sax",
                         "musePack": "Muse Woodwinds",
-                        "museUID": "131",
+                        "museUID": "132",
                         "museVendorName": "",
-                        "playbackSetupData": "winds.saxophone.tenor"
+                        "playbackSetupData": "winds.saxophone.baritone"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "Muse Woodwinds\\Tenor Sax\\131",
+                    "id": "Muse Woodwinds\\Baritone Sax\\132",
                     "type": "muse_sampler_sound_pack",
                     "vendor": "MuseSounds"
                 },
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "tenor-saxophone",
+            "instrumentId": "baritone-saxophone",
             "out": {
                 "auxSends": [
                     {
@@ -195,7 +167,35 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "5",
+            "partId": "6",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "soundFontName": "MS Basic"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "metronome",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "999",
             "soloMuteState": {
                 "mute": false,
                 "solo": false

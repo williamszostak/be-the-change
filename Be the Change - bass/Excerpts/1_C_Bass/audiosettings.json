@@ -1,16 +1,8 @@
 {
     "tracks": [
         {
-            "instrumentId": "tenor-saxophone",
-            "partId": "5",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "tuba",
-            "partId": "7",
+            "instrumentId": "flute",
+            "partId": "2",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -45,6 +37,22 @@
             "partId": "1",
             "soloMuteState": {
                 "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "tenor-saxophone",
+            "partId": "5",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "tuba",
+            "partId": "7",
+            "soloMuteState": {
+                "mute": false,
                 "solo": false
             }
         }

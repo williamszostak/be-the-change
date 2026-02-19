@@ -86,7 +86,9 @@
           <linked>
             </linked>
           <style>subtitle</style>
-          <text>Jan 4, 2026</text>
+          <textLineSpacing>1.3</textLineSpacing>
+          <text>Feb 16, 2026
+<font size="10"/>(Orig. Jan 4, 2026)</text>
           </Text>
         <Text>
           <eid>tTaWVtiuzk_DryDfUfLNDN</eid>
@@ -117,8 +119,8 @@ Don B.A. Hader</text>
             <eid>DXNPkbndGsF_as9QXqGr6SB</eid>
             <linked>
               </linked>
-            <concertKey>-3</concertKey>
-            <actualKey>-1</actualKey>
+            <concertKey>-1</concertKey>
+            <actualKey>1</actualKey>
             </KeySig>
           <TimeSig>
             <eid>u2MZ62RZ8EN_ls77JgLRIsP</eid>
@@ -155,9 +157,9 @@ Don B.A. Hader</text>
               <eid>G55IknP2+1O_UbTGRAaAxJN</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -169,9 +171,9 @@ Don B.A. Hader</text>
               <eid>aE0uacdfQjI_Mkyr+AM5VeL</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -183,9 +185,9 @@ Don B.A. Hader</text>
               <eid>YVWjM9xLgQG_KlSQ+PcbPZH</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -209,9 +211,9 @@ Don B.A. Hader</text>
               <eid>quL86K8eUmP_qz4zFaIZx+H</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -246,9 +248,9 @@ Don B.A. Hader</text>
               <eid>b23OWUT2mJG_JTlJp45LENG</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -260,9 +262,9 @@ Don B.A. Hader</text>
               <eid>Y6C/8RFkGnE_UBq3GhNv7PD</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -274,9 +276,9 @@ Don B.A. Hader</text>
               <eid>sweeWvNDPNO_DXjQbIe4Y5O</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -300,9 +302,9 @@ Don B.A. Hader</text>
               <eid>UCzuIvHSHdH_3T660OAQa5K</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -337,9 +339,9 @@ Don B.A. Hader</text>
               <eid>eQSfXT8bW/N_ZDezFlMs5eL</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -351,9 +353,9 @@ Don B.A. Hader</text>
               <eid>TvaHe7I/uzD_1mPkZ+BdF5L</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -365,9 +367,9 @@ Don B.A. Hader</text>
               <eid>Wu1TVZxBIMJ_qKaD5O/rSXJ</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -391,9 +393,9 @@ Don B.A. Hader</text>
               <eid>5q9sEgAKdIH_XbQAVHpAGgE</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -428,9 +430,9 @@ Don B.A. Hader</text>
               <eid>p/j/TS/rTvG_Syq+bvv6wOF</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -442,9 +444,9 @@ Don B.A. Hader</text>
               <eid>Znqsgj8PTzB_YgBgghr8EBP</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -456,9 +458,9 @@ Don B.A. Hader</text>
               <eid>dDmgG/yxztM_Y1IcR17IW0K</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -482,9 +484,9 @@ Don B.A. Hader</text>
               <eid>+J0WoPgwG6_XOSvbN/oP1E</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -520,9 +522,9 @@ Don B.A. Hader</text>
               <eid>fTqpCJzZMMB_hbUuT+KNeoG</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -534,9 +536,9 @@ Don B.A. Hader</text>
               <eid>BXibJo3LuiL_5icXN3Vm3MP</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -548,9 +550,9 @@ Don B.A. Hader</text>
               <eid>NYaAjJ0W41D_q5O5p+rcfLM</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -574,9 +576,9 @@ Don B.A. Hader</text>
               <eid>0QB6SwVQUKG_YKWv++aOuDO</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -612,9 +614,9 @@ Don B.A. Hader</text>
               <eid>/cUNmwkFqaE_ahNu88IRTTL</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -626,9 +628,9 @@ Don B.A. Hader</text>
               <eid>UwkBYEP7zWF_C7qCZn1ksYN</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -640,9 +642,9 @@ Don B.A. Hader</text>
               <eid>p9ppEHCQ6DG_Daue44C2S4E</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -666,9 +668,9 @@ Don B.A. Hader</text>
               <eid>QNQvvIVI6/J_V1dvldho9aJ</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -704,9 +706,9 @@ Don B.A. Hader</text>
               <eid>V6RYe0TXa8E_kG7Lp79Hw/P</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -718,9 +720,9 @@ Don B.A. Hader</text>
               <eid>cH/U+G5mZyC_ND4H3k39BCH</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -732,9 +734,9 @@ Don B.A. Hader</text>
               <eid>zUIynFfYOWB_h1dhljTNrzL</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -758,9 +760,9 @@ Don B.A. Hader</text>
               <eid>vlIwzHCmUJH_p3rZ/UJ8Y4F</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -831,9 +833,9 @@ Don B.A. Hader</text>
               <eid>nPTQ1gv/EvG_Ge2ZAxac27F</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -845,9 +847,9 @@ Don B.A. Hader</text>
               <eid>0RyGlPdpveH_DCfY2V8OAQO</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -859,9 +861,9 @@ Don B.A. Hader</text>
               <eid>Ew0OYxtTqhN_m+SfeEBsF7G</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -885,9 +887,9 @@ Don B.A. Hader</text>
               <eid>mCygg92urQI_xlovKTMteXH</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -982,9 +984,9 @@ Don B.A. Hader</text>
               <eid>hToqv6z3W5E_fWlwT4eO+BE</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -996,9 +998,9 @@ Don B.A. Hader</text>
               <eid>8kllp8pY9MH_D0kfTh1UT/K</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1010,9 +1012,9 @@ Don B.A. Hader</text>
               <eid>IBmtsYmKZbD_ZMkLAZlfyd</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -1036,9 +1038,9 @@ Don B.A. Hader</text>
               <eid>oDWNyXwqt3E_pF8sdYgKkCE</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -1068,9 +1070,9 @@ Don B.A. Hader</text>
               <eid>wXV5SBuErDG_7g+VG7PFBiM</eid>
               <linked>
                 </linked>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1093,9 +1095,9 @@ Don B.A. Hader</text>
                 <subtype>accidentalSharp</subtype>
                 <eid>94AjwA9He9F_RuvufrE05vE</eid>
                 </Accidental>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <tpc2>23</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -1147,9 +1149,9 @@ Don B.A. Hader</text>
               <eid>1ZBovQJa8TB_sfhHu42n6+K</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1161,9 +1163,9 @@ Don B.A. Hader</text>
               <eid>kueEMkgGRmO_OLXgmas+IdH</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1175,9 +1177,9 @@ Don B.A. Hader</text>
               <eid>JUayI6rahqP_5W6RhP4AhwE</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -1201,9 +1203,9 @@ Don B.A. Hader</text>
               <eid>xvoO98Z6DND_lg5zSwLiHiG</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -1256,9 +1258,9 @@ Don B.A. Hader</text>
               <eid>dDOJbIW2WGB_Kvk/MGORRpO</eid>
               <linked>
                 </linked>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1281,9 +1283,9 @@ Don B.A. Hader</text>
                 <subtype>accidentalSharp</subtype>
                 <eid>Vdgo2OxfNwM_8bzggo0rwEG</eid>
                 </Accidental>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <tpc2>23</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -1300,9 +1302,9 @@ Don B.A. Hader</text>
               <eid>kRrTpNJBuMB_JFnBCgSkJlG</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1314,9 +1316,9 @@ Don B.A. Hader</text>
               <eid>o1PJR9xXsfH_a3EFtYhWNHK</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1328,9 +1330,9 @@ Don B.A. Hader</text>
               <eid>xAPNg4j7cmI_7jZo19MP1dI</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -1354,9 +1356,9 @@ Don B.A. Hader</text>
               <eid>pBcnsTcurdD_kCOO4x6QnyE</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -1413,9 +1415,9 @@ Don B.A. Hader</text>
               <eid>tN3cGN8P4EJ_6hN8oolte2P</eid>
               <linked>
                 </linked>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1438,9 +1440,9 @@ Don B.A. Hader</text>
                 <subtype>accidentalSharp</subtype>
                 <eid>dFEIs6osPYO_XmRRR/JD3NE</eid>
                 </Accidental>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <tpc2>23</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -1457,9 +1459,9 @@ Don B.A. Hader</text>
               <eid>lBnJ/v5Br1M_NdkuAXzhU7N</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1471,9 +1473,9 @@ Don B.A. Hader</text>
               <eid>m6C6el94oxP_34httUKkGJC</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1485,9 +1487,9 @@ Don B.A. Hader</text>
               <eid>HxKTw1rQKQB_vTviFjK+2cN</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -1511,9 +1513,9 @@ Don B.A. Hader</text>
               <eid>swH3BHAixwH_9edtSQn3QmC</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -1566,9 +1568,9 @@ Don B.A. Hader</text>
               <eid>9xeAZi0NKL_3F2/Acokk/</eid>
               <linked>
                 </linked>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1591,9 +1593,9 @@ Don B.A. Hader</text>
                 <subtype>accidentalSharp</subtype>
                 <eid>gKriHyvbleI_AOSx16XaD3L</eid>
                 </Accidental>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <tpc2>23</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -1610,9 +1612,9 @@ Don B.A. Hader</text>
               <eid>mYaO2euuiS_H9HxmxmtJpL</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1624,9 +1626,9 @@ Don B.A. Hader</text>
               <eid>m9qqo5PwfOK_+CVDYGd4ZAP</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1638,9 +1640,9 @@ Don B.A. Hader</text>
               <eid>gnMwZTwZqCJ_F+egDo6yAZI</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -1664,9 +1666,9 @@ Don B.A. Hader</text>
               <eid>XzMPW9uRcnM_Bn4DGPLCRxC</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -1735,9 +1737,9 @@ Don B.A. Hader</text>
               <eid>yL1cGAfB8qL_qT4NOuRdYNF</eid>
               <linked>
                 </linked>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1760,9 +1762,9 @@ Don B.A. Hader</text>
                 <subtype>accidentalSharp</subtype>
                 <eid>SMfavauarmB_u5kAhcn3ZYI</eid>
                 </Accidental>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <tpc2>23</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -1861,8 +1863,8 @@ We are the future, let's be the change!</text>
         <voice>
           <KeySig>
             <eid>9AWZ7qK6UpM_M5G8VCauXY</eid>
-            <concertKey>-3</concertKey>
-            <actualKey>-1</actualKey>
+            <concertKey>-1</concertKey>
+            <actualKey>1</actualKey>
             </KeySig>
           <TimeSig>
             <eid>iDIDxXzqh2D_jlEN0vWbgQB</eid>
@@ -1909,9 +1911,9 @@ We are the future, let's be the change!</text>
               <eid>Lp9+kox2gW_K0J4B4QoolG</eid>
               <linked>
                 </linked>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1934,9 +1936,9 @@ We are the future, let's be the change!</text>
                 <subtype>accidentalSharp</subtype>
                 <eid>/buxS753UUG_Dgfoo7KZ4cN</eid>
                 </Accidental>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <tpc2>23</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -1959,9 +1961,9 @@ We are the future, let's be the change!</text>
               <eid>rSq6v/+ew2I_SslmP9VweqL</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -1991,9 +1993,9 @@ We are the future, let's be the change!</text>
               <eid>FxZ9hLb7kjE_a/5OATvtaFL</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2005,9 +2007,9 @@ We are the future, let's be the change!</text>
               <eid>/+06W5+PcIJ_MDZ6i4yCTOF</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2019,9 +2021,9 @@ We are the future, let's be the change!</text>
               <eid>6tdafUlKx6C_NDiGeltG4IB</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2033,9 +2035,9 @@ We are the future, let's be the change!</text>
               <eid>A3dMBzQgDxL_3yfQtCPHKwF</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2047,9 +2049,9 @@ We are the future, let's be the change!</text>
               <eid>uFMtHylix5P_qonsMQgMlUH</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -2089,9 +2091,9 @@ We are the future, let's be the change!</text>
               <eid>MrF9auEBjCO_bA+cNamnViN</eid>
               <linked>
                 </linked>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2114,9 +2116,9 @@ We are the future, let's be the change!</text>
                 <subtype>accidentalSharp</subtype>
                 <eid>0H0gcBhoYGN_qGWTl95lebG</eid>
                 </Accidental>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <tpc2>23</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -2139,9 +2141,9 @@ We are the future, let's be the change!</text>
               <eid>tKLuKUWJncJ_KYLsJLuzY3G</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -2171,9 +2173,9 @@ We are the future, let's be the change!</text>
               <eid>GgsTK2AiCpJ_Y31YLJPdqvG</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2185,9 +2187,9 @@ We are the future, let's be the change!</text>
               <eid>EyRZVowa1kG_6A/1r1YZ5XN</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2199,9 +2201,9 @@ We are the future, let's be the change!</text>
               <eid>NKhLjKOAMXE_/lBe2HE8y2D</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2213,9 +2215,9 @@ We are the future, let's be the change!</text>
               <eid>3TsNmQd5hxF_u/mGJqO51sE</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2227,9 +2229,9 @@ We are the future, let's be the change!</text>
               <eid>1vcXx4pO1tL_wrU8m+azRf</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -2269,9 +2271,9 @@ We are the future, let's be the change!</text>
               <eid>7khKGCd4pbO_xhPBdvXdD7K</eid>
               <linked>
                 </linked>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2294,9 +2296,9 @@ We are the future, let's be the change!</text>
                 <subtype>accidentalSharp</subtype>
                 <eid>Z/hnLVKyoTI_Nv7s9I7T3YP</eid>
                 </Accidental>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <tpc2>23</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -2319,9 +2321,9 @@ We are the future, let's be the change!</text>
               <eid>BlZZWXclPIF_PcvNUifRHPD</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -2351,9 +2353,9 @@ We are the future, let's be the change!</text>
               <eid>NfHyhesgmPE_bwBShd+JKtM</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2365,9 +2367,9 @@ We are the future, let's be the change!</text>
               <eid>weJyQQ8PAkP_aPm/9+7Vwu</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2379,9 +2381,9 @@ We are the future, let's be the change!</text>
               <eid>xaybFZFtsMN_EahJCMpz/JN</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2393,9 +2395,9 @@ We are the future, let's be the change!</text>
               <eid>2CzlHKgSoR_zMI38Qr3w5M</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2407,9 +2409,9 @@ We are the future, let's be the change!</text>
               <eid>FFRMwkznVeM_88pSCMsBF7</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -2449,9 +2451,9 @@ We are the future, let's be the change!</text>
               <eid>sZkapCx7N4K_L6oYZTjF0qF</eid>
               <linked>
                 </linked>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2474,9 +2476,9 @@ We are the future, let's be the change!</text>
                 <subtype>accidentalSharp</subtype>
                 <eid>UddNNIenv2B_tZXQHLcEw3N</eid>
                 </Accidental>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <tpc2>23</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -2499,9 +2501,9 @@ We are the future, let's be the change!</text>
               <eid>VIiXnEDv4HK_bQH1GCVgS0C</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -2531,9 +2533,9 @@ We are the future, let's be the change!</text>
               <eid>X5iXPlIAIVC_3zr+TUcE6uC</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2545,9 +2547,9 @@ We are the future, let's be the change!</text>
               <eid>nQMPn6lgwMK_JG7rw7FcjKN</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2559,9 +2561,9 @@ We are the future, let's be the change!</text>
               <eid>2G71fj3bO8J_T28uNmlDAcL</eid>
               <linked>
                 </linked>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2573,9 +2575,9 @@ We are the future, let's be the change!</text>
               <eid>Q9Xcun4R59F_ian91dix9yF</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2587,9 +2589,9 @@ We are the future, let's be the change!</text>
               <eid>VU4sYEQNm5B_tOrRm2ToqQP</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -2612,9 +2614,9 @@ We are the future, let's be the change!</text>
               <eid>rQSdcdJF+5B_hAEFzZtBeIN</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -2679,9 +2681,9 @@ We are the future, let's be the change!</text>
               <eid>KKmOOolY/6B_i8mpypEEjYI</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2700,9 +2702,9 @@ We are the future, let's be the change!</text>
               <eid>QuKvm5QvXpL_wB4gctHEdJG</eid>
               <linked>
                 </linked>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -2718,9 +2720,9 @@ We are the future, let's be the change!</text>
               <eid>IOvwVTapd4G_+hM8vs9X4vL</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2732,9 +2734,9 @@ We are the future, let's be the change!</text>
               <eid>F8sv2OhQ4fE_CjdIz0ryAbK</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2747,9 +2749,9 @@ We are the future, let's be the change!</text>
               <eid>Y2WRixnC3kF_cpbjOOxDUND</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -2795,9 +2797,9 @@ We are the future, let's be the change!</text>
               <eid>INY4CUmYbzI_Ar5GpapjpuP</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2816,9 +2818,9 @@ We are the future, let's be the change!</text>
               <eid>H1gGx9jpF1G_h8mCCq+D9OG</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -2834,9 +2836,9 @@ We are the future, let's be the change!</text>
               <eid>fringh/6qjI_QbBu/6g/TUM</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2848,9 +2850,9 @@ We are the future, let's be the change!</text>
               <eid>KoXzc8vCGaD_DhF7Hw4nPHP</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2863,9 +2865,9 @@ We are the future, let's be the change!</text>
               <eid>v3ZkCw46dPP_h/gjFsnvGDB</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -2911,9 +2913,9 @@ We are the future, let's be the change!</text>
               <eid>kcAOnvT0+FO_Vrl1T9nSLXL</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2932,9 +2934,9 @@ We are the future, let's be the change!</text>
               <eid>ylumddkNIyG_Rg2r1zjeqfP</eid>
               <linked>
                 </linked>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -2950,9 +2952,9 @@ We are the future, let's be the change!</text>
               <eid>x8txQMh2ZyN_NrnlSdehejI</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2964,9 +2966,9 @@ We are the future, let's be the change!</text>
               <eid>hOc/Tn3NvjE_rH90rRn5MPJ</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2979,9 +2981,9 @@ We are the future, let's be the change!</text>
               <eid>tY0eIlKvyrB_JS5sqDMHGlK</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -3027,9 +3029,9 @@ We are the future, let's be the change!</text>
               <eid>doEf9m4Gg+I_kL0horJmTlC</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3048,9 +3050,9 @@ We are the future, let's be the change!</text>
               <eid>ayPiCvVmZUH_AbQzUI213gJ</eid>
               <linked>
                 </linked>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -3066,9 +3068,9 @@ We are the future, let's be the change!</text>
               <eid>vGBaBrEx54J_uGbPF7o0OgJ</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3080,9 +3082,9 @@ We are the future, let's be the change!</text>
               <eid>IbbIL61w7hF_76wuXOYoxLD</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3095,9 +3097,9 @@ We are the future, let's be the change!</text>
               <eid>I2Xh/R9grfN_O1QkSgtHVoE</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -3119,9 +3121,9 @@ We are the future, let's be the change!</text>
               <eid>N8GU6GjykwP_SjI98J345S</eid>
               <linked>
                 </linked>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3133,9 +3135,9 @@ We are the future, let's be the change!</text>
               <eid>QsloRbs75vC_l6zyXThK9MH</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3148,9 +3150,9 @@ We are the future, let's be the change!</text>
               <eid>1B2khD5BCpH_WnHUACob7SK</eid>
               <linked>
                 </linked>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>

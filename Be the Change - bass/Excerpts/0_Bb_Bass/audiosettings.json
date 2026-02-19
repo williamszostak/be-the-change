@@ -2,23 +2,23 @@
     "tracks": [
         {
             "instrumentId": "tenor-saxophone",
-            "partId": "1",
+            "partId": "5",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "tuba",
+            "partId": "7",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "flute",
-            "partId": "2",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "alto-saxophone",
-            "partId": "3",
+            "instrumentId": "horn",
+            "partId": "4",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -33,16 +33,16 @@
             }
         },
         {
-            "instrumentId": "horn",
-            "partId": "4",
+            "instrumentId": "alto-saxophone",
+            "partId": "3",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "tuba",
-            "partId": "7",
+            "instrumentId": "flute",
+            "partId": "2",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -50,9 +50,9 @@
         },
         {
             "instrumentId": "tenor-saxophone",
-            "partId": "5",
+            "partId": "1",
             "soloMuteState": {
-                "mute": false,
+                "mute": true,
                 "solo": false
             }
         }

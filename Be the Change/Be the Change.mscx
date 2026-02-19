@@ -185,7 +185,9 @@
           <eid>OAaZRry7zKG_4BH+6RPOL5D</eid>
           <linkedMain/>
           <style>subtitle</style>
-          <text>Jan 4, 2026</text>
+          <textLineSpacing>1.3</textLineSpacing>
+          <text>Feb 16, 2026
+<font size="10"/>(Orig. Jan 4, 2026)</text>
           </Text>
         <Text>
           <eid>Je5Cp4b/SWP_is5wtyet74C</eid>
@@ -208,7 +210,7 @@ Don B.A. Hader</text>
           <KeySig>
             <eid>cDm39AC+k1B_3I+HtllCEG</eid>
             <linkedMain/>
-            <concertKey>-3</concertKey>
+            <concertKey>-1</concertKey>
             </KeySig>
           <TimeSig>
             <eid>Wdfcb2rwogK_QR+qAa3Pi3N</eid>
@@ -233,14 +235,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>6aLM5rW6oHP_LXTN99MTYnL</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             <Note>
               <eid>mZrPMpWgb7O_l9D3fRBwkLO</eid>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -255,14 +257,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>4/pyTxxA6nG_sj88QzIdtGN</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
               <eid>HG5n0el9IvJ_uGqSA8J/HvO</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -278,14 +280,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>8rPTJ1OD2CG_Gi1v9r8w79D</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
               <eid>AfLE0IpX8ZB_pgt+ERchhxE</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -300,8 +302,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>gFbEufptiOE_NrNVq8o7aj</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -316,8 +318,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>Ylt7hjBEj7C_dRlUpkcQRWB</eid>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -338,8 +340,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>oa6pJhRMKpB_3GAzgxGfR6F</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -354,8 +356,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>Ovu/KhMWCbN_Zd35DRFJywN</eid>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -370,8 +372,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>l/sBlrbUqEC_aAbAo5UYXpI</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -392,8 +394,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>7vlSYdTOCx_TjjFVlMpdMM</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -408,8 +410,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>THSP6tKi6cB_b7GdwUX1NOJ</eid>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -424,8 +426,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>IKsYk//ppHE_m5dHHPzsIBH</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -445,14 +447,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>KrX3FFqoVwE_b/r55lVP8XE</eid>
               <linkedMain/>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             <Note>
               <eid>r67/Y7XxxYO_ot0RQ/Qa2SD</eid>
               <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -467,14 +469,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>jHqvJeMkB/P_0Rwlj2MaD1K</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
               <eid>+iGQkNLKCkB_uMbUObMkpzN</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -490,14 +492,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>a8KYfXA4nd_tN5rQcUaclO</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
               <eid>ZS1ltljZv+M_zOszB5VcmLB</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -512,8 +514,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>f5m9zbB9GcL_laIYMxpSfWE</eid>
               <linkedMain/>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -528,8 +530,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>RGjs0n0thyH_r+0wCG2N+1H</eid>
               <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           </voice>
@@ -553,8 +555,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>zACT27WXquH_KQ6H//9GtqD</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -569,8 +571,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>w3l8/9Zd6/L_eR494VO2dkI</eid>
               <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -587,8 +589,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>clVgPnuU9nP_YGpvWYTUNCP</eid>
               <linkedMain/>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -615,8 +617,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>NeZKIsk1C3G_FVl5IVKxKQI</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -639,8 +641,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>NrWM47pWeJC_3AiGsiVRVEK</eid>
               <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -655,8 +657,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>gH8OkJCuzaP_/+FS02Tsgy</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -681,14 +683,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>t8STTDlmxOH_PsEUv0vFNrK</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             <Note>
               <eid>5PRTEjTqAZN_vrYOEWALSjM</eid>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -703,14 +705,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>yBwezkMceoL_7myzYbETstB</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
               <eid>jK9GOHyMfzP_vOQUGH59tkE</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -726,14 +728,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>QQp1sufhGVH_99bH687d/FN</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
               <eid>tGIowwppziD_ieHTIu+hgZP</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -748,8 +750,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>1ma2id3tUqO_2qTrZvEHvwB</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -764,8 +766,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>vUv3/HS2+pB_KUNuaHbNLsN</eid>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -786,8 +788,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>isP5aqKquaC_RLQkvdVkSVK</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -802,8 +804,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>zW8liqocpVD_M0VF2PC+pQK</eid>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -818,8 +820,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>5IbwzEIudDF_u/OyXFMFr0H</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -840,8 +842,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>PjTW8SQ68vD_XagbqBJxLuI</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -856,8 +858,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>EHM03juUCFH_22jZb6R/TnK</eid>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -872,8 +874,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>9Ba9d5jniU_Ou2YpXd4lGO</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -893,14 +895,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>47N3+dgjAk_thX1W0yc/HP</eid>
               <linkedMain/>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             <Note>
               <eid>yKV7vxj/hlM_JHuUqQn3qrM</eid>
               <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -915,14 +917,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>vdN3P2eQT5I_NqHYXStbwf</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
               <eid>uw28WH633EL_7zsw4zm0kEJ</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -938,14 +940,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>G4GkumRfdGC_lR8Uzn+mviM</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
               <eid>81xZThZKo7E_9jSOhrsSPlM</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -975,8 +977,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>KltBR/JiRuH_BKUnlPmXqu</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -991,8 +993,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>J7YdisvuzaK_YJX6r0pRXkL</eid>
               <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1008,8 +1010,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>lWp2O20mh8B_+Kem7ZMuHEJ</eid>
               <linkedMain/>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1025,8 +1027,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>fvmjUOk0SkI_QjjEfjzFoII</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -1069,8 +1071,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>309Lh1EICWB_09Stx0FvSoJ</eid>
               <linkedMain/>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1086,8 +1088,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>77fXUiaZ5ME_bpVJkV0qxjG</eid>
               <linkedMain/>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1102,8 +1104,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>iMrkA6Qv00I_sGdDOzDsioC</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1120,8 +1122,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>DtRdAY2bnSE_VZdCHIezk9M</eid>
               <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1137,8 +1139,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>xc+461inR3E_wChGlCSjRKB</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -1174,8 +1176,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>wln9BfCDpxM_s+mXl+31gkP</eid>
               <linkedMain/>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1190,8 +1192,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>d55IVrOHKTC_2HaJLQYfG9H</eid>
               <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1206,8 +1208,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>x+Nar0x+WG_I2Cbtsy9V+D</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1229,8 +1231,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>xcMvcT9MIYE_hAsIbutxadP</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1247,8 +1249,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>z/LFr9W1S/G_A+NxFQIpiWD</eid>
               <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1264,8 +1266,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>ML/FBl7BTTG_zlItcSROqpJ</eid>
               <linkedMain/>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1281,8 +1283,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>lygQGkYBAlE_FmHkk+LEFaP</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -1328,8 +1330,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>uFwV1z7QxQ_T0o1m4Af70K</eid>
               <linkedMain/>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1345,8 +1347,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>4/CzOuQn9QH_q0rBmiOwqeE</eid>
               <linkedMain/>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1361,8 +1363,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>be3OmBBt3vK_8GMcDMUJ4IC</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1379,8 +1381,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>7Q1aB2KDhdB_QQHqc9dNYCK</eid>
               <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1396,8 +1398,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>vLnSTRPw3KM_et8JpMdCkhM</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -1439,8 +1441,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>4RJ/C4gpnVL_WmePABeINWM</eid>
               <linkedMain/>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1455,8 +1457,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>9ldEVVNoUxE_Bmoq27dXUWJ</eid>
               <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1471,8 +1473,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>ZYBYIuJ1KGN_Q+fuAqC7MRH</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1488,8 +1490,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>7X5xnFBspmM_JZ8Y6hymeoH</eid>
               <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1505,8 +1507,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>MPsA3GkKR6K_OChTh0oazmN</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1521,8 +1523,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>Lq+/u6bNHNP_lgC+GdCjzxO</eid>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1543,14 +1545,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>EPViCaEksvM_q+9M+UmJygO</eid>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             <Note>
               <eid>AivXiiJJopL_4glX4shuaP</eid>
               <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1565,14 +1567,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>B/BvHkEU1HB_tLO0HPiwp6B</eid>
               <linkedMain/>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             <Note>
               <eid>rEuC0aCOA1N_v2Cawm91e7J</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1588,14 +1590,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>OZxMHuwr3jE_AxxtsZwRjPI</eid>
               <linkedMain/>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             <Note>
               <eid>gFPFFwSE7eP_e5mhtHR90oD</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -1611,7 +1613,7 @@ Don B.A. Hader</text>
         <voice>
           <KeySig>
             <eid>5D40TNeKteO_eN2bdbChoYM</eid>
-            <concertKey>-3</concertKey>
+            <concertKey>-1</concertKey>
             </KeySig>
           <TimeSig>
             <eid>XrgfWepoKnO_cMchn8pV4UF</eid>
@@ -1726,14 +1728,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>Oh2WtWMAh6M_CSSREH3aNZB</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             <Note>
               <eid>yobvZA7niEF_8FO66Xcez9B</eid>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1748,14 +1750,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>lB7YUqQHkLJ_sd9ak7eZJIF</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
               <eid>SdG7oJrfHvP_OVXQBO/Y7DK</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1771,14 +1773,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>AsBHZToASbE_xo262hsr2IE</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
               <eid>UukW66+f0YM_b5zEKa6lQoK</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -1812,14 +1814,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>pMzRJnDIGXJ_y85F0B672GH</eid>
               <linkedMain/>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             <Note>
               <eid>DhXcFEI7KqB_Uc3grkd7DaG</eid>
               <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1834,14 +1836,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>cxeq87zWspK_TfYSKMeTzoE</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
               <eid>poCBslPKiLJ_orfMF9PoWzP</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1857,14 +1859,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>ByEig9R2cHB_o9/3nvbk6NP</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
               <eid>0YfzFqr84hB_wERhVy5gvV</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -1898,14 +1900,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>D64NgUFvMsC_rUtU7/YO61F</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             <Note>
               <eid>erOQpFnNGb_6IIbTEDALRO</eid>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1920,14 +1922,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>hplldkEFLvE_B1v4+Fxa9tN</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
               <eid>hnVbpFb1ewD_eSqOz4zjXtJ</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1943,14 +1945,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>ZpPtBxfHGdD_sPfFjycJhEL</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
               <eid>wkl0LRXCzR_7zTPMmfS0pO</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -1980,8 +1982,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>zB8k/JAO5PE_Fj/D4N/1nYG</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1996,8 +1998,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>Xk2H5eP5awH_O3OJMUbcmQH</eid>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2012,8 +2014,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>ia2QkNdzLjM_UzHz5mA19zK</eid>
               <linkedMain/>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2029,8 +2031,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>ro5PIQlEaHM_sLeuRhChxgC</eid>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2046,8 +2048,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>0PaAad9g2UI_u7t8K8R4F5N</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2062,8 +2064,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>92ACdXkk4lE_2br8RjTUt+C</eid>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -2082,14 +2084,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>Dmd3D4IehFE_LMit0EIHF1E</eid>
               <linkedMain/>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             <Note>
               <eid>BBGiHD2PuyI_d9WUMh98JPO</eid>
               <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2104,14 +2106,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>7fb9FFPLFZI_ohXFoM3nVFG</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
               <eid>Rj37xPH6acD_kyhdTKuNHxD</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2128,14 +2130,14 @@ Don B.A. Hader</text>
             <Note>
               <eid>CH9uOjyUd9O_ZARXbpMJeUN</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
               <eid>voMduCicB9_NjRFe83CBeD</eid>
               <linkedMain/>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -2152,8 +2154,8 @@ Don B.A. Hader</text>
           <KeySig>
             <eid>FMH5DqsCQSE_ewnMK9nSuMF</eid>
             <linkedMain/>
-            <concertKey>-3</concertKey>
-            <actualKey>-2</actualKey>
+            <concertKey>-1</concertKey>
+            <actualKey>0</actualKey>
             </KeySig>
           <TimeSig>
             <eid>G//xHZ/VFZI_7XwZ2itpIUG</eid>
@@ -2173,16 +2175,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>zIci+A1Ld3G_1rYQewH8gHN</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             <Note>
               <eid>tCVH/VLUa5M_7zab2BrdnqN</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>15</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2197,16 +2199,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>B5Wm1/15xP_rbK/XqqB09I</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>KAAU9fttbpE_0u5uttvntXN</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2222,16 +2224,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>KKsrQKyDDFG_DeGoJx052lF</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>QlL6BUwuRqM_6tuuXJ0qnk</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2246,9 +2248,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>95hjty7TNlJ_/2HpRSfpxRK</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2263,9 +2265,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>oOSLMjOwLIL_4xsbpzuH/TB</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>15</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -2285,9 +2287,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>ssQHss2+B8I_pFRc7NS06xC</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2302,9 +2304,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>bswrNWOolS_6F0TSFLnrYM</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>15</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2319,9 +2321,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>2pu5+B1Hk4O_OB+QSuNCEQM</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -2342,9 +2344,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>tbKK6DE9eaC_kOu+b43GeuB</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2359,9 +2361,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>WrKR+12JN1K_yrtCp88NQTB</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>15</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2376,9 +2378,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>0hSxS+Zx4uG_W08vu0H4auI</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -2397,16 +2399,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>ODqwHyhPpoP_jsl/grDrGeI</eid>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              <tpc2>11</tpc2>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>13</tpc2>
               </Note>
             <Note>
               <eid>mMDFGQjSYYO_Tv5zi3eC0i</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>14</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2421,16 +2423,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>cVtT6csCMx_yuBYwJrl+GG</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>TZBTXqr0skD_/0mJqpydES</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2446,16 +2448,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>X7OCCRUt75I_yWVFP0930dP</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>eVbAVnnYlMM_hF7KO4LzXHB</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2470,9 +2472,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>1LYKkpc//0D_IL/7cuH9STD</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2487,9 +2489,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>oynbA16JazH_E4KnTvYUfVI</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>14</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -2508,9 +2510,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>K6Z2SSRtNb_oW4RBpiI16N</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2525,9 +2527,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>gsH4MKYdvjK_REKeLoHn74N</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>14</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2544,9 +2546,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>UtoaN92DS5_YRfMoAV3GtL</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2573,9 +2575,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>uUI/gsZRKHE_BijobY/fDHI</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2598,9 +2600,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>WGW+4LvTDWN_iZh4/2GAGGD</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>14</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2615,9 +2617,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>eJTX1xFxCyC_8WmxTwfY8QL</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -2641,16 +2643,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>H4/5qK0VobF_LnfqLDmRd2J</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             <Note>
               <eid>RRuWDA8wbdL_VdkctqhCXyG</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>15</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2665,16 +2667,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>nFjyS63/78C_56+POkxl5jE</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>THcmwg1zsc_HRnO0hQPXKP</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2690,16 +2692,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>BZLoTlWdkEC_Ev28ODSS3cM</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>j7odvyQrReK_FtkZnWE8QsD</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2714,9 +2716,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>+cY1XWVfxrH_fkSw773e6lE</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2731,9 +2733,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Jjn2Xn8/xXP_ZRkUu2kzd0C</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>15</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -2753,9 +2755,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>dhv1va8DKeM_PrHL1vYTG+B</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2770,9 +2772,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>lHV+zj63cdI_WQQDqu5hI5O</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>15</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2787,9 +2789,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>aEFiPufSr0P_oIH2Tg/4OLG</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -2810,9 +2812,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>wwY59dPx3bL_ngI5xWzuXVL</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2827,9 +2829,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>3Ssdfz4A4c_TPJB2mZeCVE</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>15</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2844,9 +2846,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>cvcyYj0fO7B_wakfvWTAhQB</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -2865,16 +2867,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>1lZTHi/JNKH_xbQRxl5mIHP</eid>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              <tpc2>11</tpc2>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>13</tpc2>
               </Note>
             <Note>
               <eid>8HkLcuf4MwL_GTVGixQ9L5F</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>14</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2889,16 +2891,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>jXsRJKziEFH_N/KIBUf1y2D</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>IHeciR+SEmK_9EIae0JmZrF</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2914,16 +2916,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>FHmixHfuUNC_SB+p5xwUgdP</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>4GYLO0Vi+nD_d2xao81uxZM</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -2947,9 +2949,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>8oNV1CyyifE_PSW2QNys3WH</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2964,9 +2966,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>G8jVv2UJAeF_dnInC26yJrO</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>14</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2982,9 +2984,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>YBRxjQN7LAP_DARE8Z/+peG</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3000,9 +3002,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>wbDklipV8aG_9jt9A4FsTWM</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -3038,9 +3040,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>2EP5EpkFizE_XXZ/ZW7x4CJ</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3056,9 +3058,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>fPx3ihc2E2N_3dYD0T8DKtE</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3073,9 +3075,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>hMqNMz2Huq_4xgsnUYcuMN</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3092,9 +3094,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>TNeZNsF4RM_nUdLxpV2aQL</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>14</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3110,9 +3112,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>hPYYH6xdXrJ_DEeiKjB2TNG</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -3147,9 +3149,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>fTuGQSCMMxI_AyjO+QNJI1O</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3164,9 +3166,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>YahuBBY9+UG_gfYPAfrgNYE</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>14</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3181,9 +3183,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>yy502UKFTwH_+62cuWf/uMD</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -3204,9 +3206,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>3LAMMTLtusK_PQJ9bJ9lhgF</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3223,9 +3225,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>fVOd0G7c54J_BulK0dHthF</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>14</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3241,9 +3243,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>IECEec0cTgK_HotjcHaJTEK</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3259,9 +3261,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Dq6tGUyWnOK_LlJRMQY7K1E</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -3301,9 +3303,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>xIO+nIUTIbL_MrboD4rGwQL</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3319,9 +3321,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>w0eIfwuwDuJ_rfrRiHFkWuF</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3336,9 +3338,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>VOdj+8Zc94O_sAJYgy4BHHE</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3355,9 +3357,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>DhzQ/wDBqpC_TxK71w/n0cK</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>14</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3373,9 +3375,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>2gUrBG7NGmK_l5STwft+JVN</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -3415,9 +3417,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>L0pWqG46ufJ_uNkS7Q/TzbI</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3432,9 +3434,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>XeYHIuJN2LK_4TcfimQjAXD</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>14</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3449,9 +3451,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Y6tAkt99L6D_0QdZdArNBGE</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3467,9 +3469,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>oVr/KmkDlFL_S3XkezQPmKM</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>14</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3485,9 +3487,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>KakkGsLQjxL_OAD10YcbHaF</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3502,9 +3504,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>u6PaSPy5tGM_9JJNipOCtm</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>15</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -3523,16 +3525,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>Z17+b1LeH1P_7wdZhz3rVNH</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>15</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               </Note>
             <Note>
               <eid>+hpU4yqKfFE_DHvNOXw8kB</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>14</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3547,16 +3549,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>MaqvQr0EBVJ_goejqSnpXZI</eid>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>13</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>15</tpc2>
               </Note>
             <Note>
               <eid>yBl1kmClRmK_G9hQsVwW1UI</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3572,16 +3574,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>u8mGuziRePD_XEedWKoG5sF</eid>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>13</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>15</tpc2>
               </Note>
             <Note>
               <eid>Uo0PalBqSRP_NoiOp+QWGxM</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -3597,8 +3599,8 @@ Don B.A. Hader</text>
         <voice>
           <KeySig>
             <eid>W6BUDFRXAJB_Lezwd6m6A3L</eid>
-            <concertKey>-3</concertKey>
-            <actualKey>-2</actualKey>
+            <concertKey>-1</concertKey>
+            <actualKey>0</actualKey>
             </KeySig>
           <TimeSig>
             <eid>eoKcT5ISdcG_30so+O1w8kB</eid>
@@ -3713,16 +3715,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>pC3AWxVKPWI_MSk+FazpDSD</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             <Note>
               <eid>+zGDSxqNSnC_wxcxYGSF5VK</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>15</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3737,16 +3739,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>gZV+0hWa5qI_NBceXwuqP2F</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>30uSARrSKkI_BH7imHot7+H</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3762,16 +3764,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>DMIi2TNN5DH_xu9PIpHcqUK</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>/+ngaCj+SxF_T4nvW5WVQLN</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -3805,16 +3807,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>OiBi7q+DsbM_kif/+FEXqVD</eid>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              <tpc2>11</tpc2>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>13</tpc2>
               </Note>
             <Note>
               <eid>JKB5yhA9pLD_KOTZePwcg6D</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>14</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3829,16 +3831,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>lGLYCR1XwFG_CmAtDRL4EyB</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>+UAUvNaSK6O_L+3E2Dvy+2K</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3855,16 +3857,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>yvPY2u9ghxK_XvagCCFg3PE</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>3SQz45QhHDF_5qUH7tPoGwN</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -3898,16 +3900,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>atV9QBVovvB_C/tcdfg4/XD</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             <Note>
               <eid>w5R81BV3qED_CxK/ddu2TbG</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>15</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3922,16 +3924,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>hrenxn4PUaN_+HaowihqWDF</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>CeugbjlOZHP_qxUx1LlYWbM</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -3947,16 +3949,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>6CAX08Q0zDM_1fRNB1LpTaM</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>1XblfC8NgRC_4+QIWD6rnpO</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -3986,9 +3988,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Sd6qq72OSeJ_pnAYJ9H1uEL</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4003,9 +4005,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>CMwrJiHHGtG_NheAhQzBS5D</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>15</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4020,9 +4022,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>3t4AKen00IK_0iBEQ9MRjVF</eid>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>13</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4038,9 +4040,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>kbJ8uXLQWTN_W2zxZe7dXsL</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>15</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4056,9 +4058,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>d3GDKETt9h_NYtnmiHTE9P</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4073,9 +4075,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Q5lDj/FToqI_4mf1WmI978F</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>15</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -4094,16 +4096,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>YbCB7m3GfoK_YVcAMqGEUzI</eid>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              <tpc2>11</tpc2>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>13</tpc2>
               </Note>
             <Note>
               <eid>7OyR9Zi2n_hlIGriVGZjB</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>14</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4118,16 +4120,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>lwx8DS7coAK_+Vp7ujMmUXI</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>DdonlKX7OUB_pijNPxmKWhK</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4144,16 +4146,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>PZ/Zc7wd6tH_z9qO0PN8GPE</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>zD9CY28hz9E_pf9S1uXAcbK</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -4170,8 +4172,8 @@ Don B.A. Hader</text>
           <KeySig>
             <eid>8pT0ynLTGhP_la7CbxdVrlK</eid>
             <linkedMain/>
-            <concertKey>-3</concertKey>
-            <actualKey>0</actualKey>
+            <concertKey>-1</concertKey>
+            <actualKey>2</actualKey>
             </KeySig>
           <TimeSig>
             <eid>i4h4nP0UqXF_dsMvXMwme8F</eid>
@@ -4191,16 +4193,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>i9OsykgAJO_zkTucaEyUeM</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>ugVlc7YZMZL_BXhKujnC8iD</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4215,16 +4217,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>OUsJ71RsYmD_2njpGBSlTOE</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             <Note>
               <eid>oX6tBGA+f1F_FT6xWpU98aF</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4240,16 +4242,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>4+re5tZ/4GM_6DUYtSBLOWJ</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             <Note>
               <eid>gMMYqz3dG4H_35X09ZYWhDL</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4264,9 +4266,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Q8DueIzXkJ_BGGEaf4tDoI</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4281,9 +4283,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Irb49qrSuGI_/JcmKv7ly1J</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -4303,9 +4305,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>wofvd1RgSwP_nmYotEMBWsN</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4320,9 +4322,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>h1KEBLkbcAN_t0//EpOEf8M</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4337,9 +4339,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Qud56PKftXM_PpMfuKhVq/I</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -4360,9 +4362,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>i7nbVkSxqAI_GMvUpt/eubP</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4377,9 +4379,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>zKWEDgoJnEH_VB6LV9gjO2L</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4394,9 +4396,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>BwCR16cLd4I_Pcm7RccZg4D</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -4415,16 +4417,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>sJyeuz1FdCL_J/pGEWrNyLJ</eid>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              <tpc2>13</tpc2>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>15</tpc2>
               </Note>
             <Note>
               <eid>5nNAKl9pROO_GozL/diWwWM</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4439,16 +4441,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>n0xM1JAUngM_MuEYoKj2/eC</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             <Note>
               <eid>K1piT8FCOdM_b8JElLWMUqH</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4464,16 +4466,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>9ngZJ9MqtRD_KCDme0/p/TK</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             <Note>
               <eid>48cEEFZNb1B_+4Jfg4sW/JM</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4488,9 +4490,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>R+TwI0lghHB_OLbHYdOP0HJ</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4505,9 +4507,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>pjmiyYI8lH_Z88eOgt+9HF</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -4526,9 +4528,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>EAkqbv0XaPH_5wS1rQ5N0FI</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4543,9 +4545,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>4yW+9eNZ2JL_lg7y6XjYcAE</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4562,9 +4564,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>8Uh/QaXSi1K_RirCJFktjdP</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4591,9 +4593,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>eLjmU9qoDr_W7gCPoNHeYJ</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4616,9 +4618,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>kqqmd75LFtL_Hiq0b7hrptJ</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4633,9 +4635,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>1H1PbTnUK1H_NPcvFr/TMAP</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -4659,16 +4661,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>f9ezci8RhOK_0ATRY2KTQaE</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>qnJLCkwBYcK_3qqOImrJ01O</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4683,16 +4685,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>mqRreUW+pYD_mv5ZupRTsmK</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             <Note>
               <eid>xrXpQu8yyNO_C3NegFBjKCF</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4708,16 +4710,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>lEe+vte6UIH_pQRN30xEt8I</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             <Note>
               <eid>aiCZ1SBo+6M_9twHraFyiLF</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4732,9 +4734,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>qrWXVRePqoE_raYvnlU9gwB</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4749,9 +4751,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>7Qi0qO1uvaL_CqnqH2LrGtB</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -4771,9 +4773,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>dCgRKCU5XXD_8RZ1SQdWHVG</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4788,9 +4790,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>m457434Y6pN_nRpSz8GfeUJ</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4805,9 +4807,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Oz6xeuZIjaM_jwlennhjkwM</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -4828,9 +4830,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>HEGH0F+HKlP_rvc6jEuNnSI</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4845,9 +4847,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>N/isFt/wzlN_OyXtYhAQtOH</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4862,9 +4864,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>kbEbRe6OdXD_/6xqN8ds9tJ</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -4883,16 +4885,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>178QEwNmEDL_aIYT+lMu88P</eid>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              <tpc2>13</tpc2>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>15</tpc2>
               </Note>
             <Note>
               <eid>AuBMwpNr1hE_KciEjdAuFQM</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4907,16 +4909,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>hmbmMljLmBG_Mr8L7Da6AfB</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             <Note>
               <eid>wX1FGhTAIdH_7MvRCVt5n</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4932,16 +4934,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>341y7ReUxGC_DglH3YnuyGO</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             <Note>
               <eid>EWXA4TPhzhP_pSGpNaMYNYD</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -4965,9 +4967,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>L0cZZLQzZrF_h1uXZpS7gZJ</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4982,9 +4984,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>vyxXcgoEjaJ_LzBJ0x4JNpO</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5000,9 +5002,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>mS+SxU3fuoD_BkP/LFCGrRN</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5018,9 +5020,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>cmDBiXrPaCI_gV0DuClUcd</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -5056,9 +5058,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>yIuwWgtxJ9G_3LhXST8JG2H</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5074,9 +5076,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>865oXr86HBO_iQRyXb3ez0C</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5091,9 +5093,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Wqwc0v88n2P_y2mAxm9drsF</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5110,9 +5112,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>+Jc9yonoqHN_zUL0n2exoGD</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5128,9 +5130,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>LdRKofK3ccM_kCmHQam/ShH</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -5165,9 +5167,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>vCRTPd0jmeP_rP2lK871X2K</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5182,9 +5184,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>huLSz051lgF_QlWvdgmOw6M</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5199,9 +5201,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>nZrCZa1up8C_U1Vs9qs8S9B</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -5222,9 +5224,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>4BwpRlQNZqG_ZOkGX5Ag//B</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5241,9 +5243,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>p20fX6c6xm_NvN3oOYZ45O</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5259,9 +5261,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>z4gsxlgQGc_nu1m3/QP90E</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5277,9 +5279,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>sjIgP8ARR7K_q51glhAuaOH</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -5319,9 +5321,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>QXJxF5iZfHI_nh/aII6AuTN</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5337,9 +5339,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>cq2nmNwz+tF_lpXyRe975d</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5354,9 +5356,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>HjNuuKhjpGK_lFLKuyibKRP</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5373,9 +5375,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>RHVWvtdl/RL_QxWxpXlfEAF</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5391,9 +5393,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>3i+DnHHHCIM_yYcOIJr8ocP</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -5433,9 +5435,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>T9bWTvREyd_lI0D3Fbq6mH</eid>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5450,9 +5452,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>AU1WrSNhL0C_2Eyn1H5pixJ</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5467,9 +5469,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>n75Nyy8ayVE_PpxadfuFMdI</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5485,9 +5487,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>/zj24p/uwnL_qWvqBbxaPoK</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5503,9 +5505,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>EuIph9Qr1zC_ZpRDg3OI28C</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5520,9 +5522,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Llu2V5JSTqL_7FtxpI9AZ5</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -5541,16 +5543,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>RNdDQbs3n2O_zIdWYenyF8B</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>19</tpc2>
               </Note>
             <Note>
               <eid>UQFkLEz0WTF_DvFPrHbFXHE</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5565,16 +5567,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>bT9kgygsTvC_g085+1AbkEE</eid>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>15</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>17</tpc2>
               </Note>
             <Note>
               <eid>rHBUH1lDG9K_lNFg7zJdVCN</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5590,16 +5592,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>92Rb97D7W4K_cm+YOA5JQZK</eid>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>15</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>17</tpc2>
               </Note>
             <Note>
               <eid>IOj4Oautd6N_kTh6mSYC2WN</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -5616,8 +5618,8 @@ Don B.A. Hader</text>
           <KeySig>
             <eid>LqW/Z0h5SyN_A7g+isP3MgJ</eid>
             <linkedMain/>
-            <concertKey>-3</concertKey>
-            <actualKey>0</actualKey>
+            <concertKey>-1</concertKey>
+            <actualKey>2</actualKey>
             </KeySig>
           <TimeSig>
             <eid>68FYEt00pwI_79nbDFlH3YM</eid>
@@ -5733,16 +5735,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>LdRt1OAICmN_iZssKoIunjF</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>h1rYdJsrsOH_jRiR8oJZc/M</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5757,16 +5759,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>Nn0KUrdNv/L_eX68iz8hEb</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             <Note>
               <eid>6yhVIAochKL_2/gvG6yboMC</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5782,16 +5784,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>6kjpbM0xyeM_ODlMR5d4uiG</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             <Note>
               <eid>vXOxCqSEe1M_kFpAsMQG/LG</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -5825,16 +5827,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>pxZOBL4j41_zlwSzuxAN8J</eid>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              <tpc2>13</tpc2>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>15</tpc2>
               </Note>
             <Note>
               <eid>vjp7OuSXuZO_E2HTbvGJbaK</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5849,16 +5851,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>kxRF4kqqkgK_gnc+YceRLUN</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             <Note>
               <eid>+CoihcCg+pL_iqECFjk8h2H</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5875,16 +5877,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>payADjB21wH_Jsxr57bW5oO</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             <Note>
               <eid>YqBOB9RqjDK_Rx0HdDh/arD</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -5918,16 +5920,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>2hCO7DswU6D_xci4nOExYeP</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>wt4WiXZZaXB_1EruZhp7yYE</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5942,16 +5944,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>Pty6D9Vx7kF_ExQLwtAs23</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             <Note>
               <eid>LItyvY9vvQG_fKuu4w9azqB</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5967,16 +5969,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>//emxVwdxIG_qKstyCtLwRM</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             <Note>
               <eid>qA8oIJ6rKjC_xoUfObronN</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -6006,9 +6008,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>ebFV3tBvWtJ_2SD2rvd7vbE</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6023,9 +6025,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>1ROC7ZyOxiC_ZE7u5hhvZ1E</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6040,9 +6042,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>TdGuG+mqeHO_N9D+mDG9uU</eid>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>15</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6058,9 +6060,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>wPPuP3qihvM_/W1sRryHggE</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6076,9 +6078,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>dHbmvZuC8DI_2OKhu1PCAPJ</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6093,9 +6095,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>OLXAPSRnCCE_XN5AFcBiVB</eid>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>17</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -6114,16 +6116,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>8FDX/CWa87_ihtQ7vaWNDH</eid>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              <tpc2>13</tpc2>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>15</tpc2>
               </Note>
             <Note>
               <eid>yjjkYCtFeN_BzRpDqQsaiC</eid>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>16</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6138,16 +6140,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>Inq2nzqRv+F_rUenUKyzWDP</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             <Note>
               <eid>oF2CEvh8OhM_3kCnaQHFpwD</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6164,16 +6166,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>8obSIbghVzM_3nMZgy9sFVK</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>18</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
               </Note>
             <Note>
               <eid>9Efq1nr6PDP_yXXEd6yQrWB</eid>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -6190,8 +6192,8 @@ Don B.A. Hader</text>
           <KeySig>
             <eid>CbotLn+72mL_UCSWRiQOMxK</eid>
             <linkedMain/>
-            <concertKey>-3</concertKey>
-            <actualKey>-1</actualKey>
+            <concertKey>-1</concertKey>
+            <actualKey>1</actualKey>
             </KeySig>
           <TimeSig>
             <eid>Mg2c/V323yP_5fVjHTXVxlG</eid>
@@ -6211,9 +6213,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>GNko+xPiBTG_lOqE7RNHz6</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6228,16 +6230,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>2BVhSRk3VbL_ptb1Wp2ubVJ</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>kd0GM81UUDC_ls9Y+Ra1yGM</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6253,16 +6255,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>X9Xcu9UZMNL_mndCcNdWYOL</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>cRnitMzTRHF_IByoKohRMxN</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6277,9 +6279,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>XWQ6RHkGx4D_P0V8BjnT8ZN</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6294,9 +6296,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>ty8uCycc0cL_iHXRC2hzveH</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -6316,9 +6318,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Z5l3ZV2xdaK_GspmzVffze</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6333,9 +6335,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>kTtCNthP9fJ_Gd0O6dtLoZM</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6350,9 +6352,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>ZpuOsT7UxkO_O8UxP4G1JlB</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -6373,9 +6375,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>JEP/7unPOAD_UVgopgdWcJL</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6390,9 +6392,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>vieYXFCyFjM_cs809xiNnfL</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6407,9 +6409,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>b5bKCdLLoYK_KMgo2y4DyxH</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -6428,16 +6430,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>XQK9ghJRJwL_x3RYB4/8IiP</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>mPq1U7zoZzN_X033nEidQ+</eid>
               <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6452,16 +6454,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>TPfx3kkSXxL_3IcW+xDIeK</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>RYihZXyT9VN_cky8d9P8OyP</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6477,16 +6479,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>9/44vJFm9+E_mc3swY/PjrN</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>4KJdkw6gNZI_r7QCqdvBeXI</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6501,9 +6503,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>8IoT6S3ixAK_ZzLLxVJJLyK</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6518,9 +6520,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>EGZRCkWmqHO_ayw7r1quQIB</eid>
               <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -6539,9 +6541,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>7bLExA2yCbP_nq174mqgvvL</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6556,9 +6558,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>hTvKMW8GFdK_JuRJ4qjxe7C</eid>
               <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6575,9 +6577,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>L625rJQ5K_xvzmt6/DHzL</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6604,9 +6606,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Z/cOFGQX92_V+Zl9GXk3cI</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6629,9 +6631,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>ret5vaEB5cO_SE8rt424lWF</eid>
               <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6646,9 +6648,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>rjbO6PzgFlF_2zvG3/dRn+K</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -6672,9 +6674,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>P8fL8xs8P0I_k+XCRyoOlCJ</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6689,16 +6691,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>T0oLPFeTNEL_TXvcou672XL</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>b2pm//RdSsN_NcQNHQ4I7DC</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6714,16 +6716,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>km8ktkxWbUH_IusBaNO9iSI</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>9PFYo7cP3KM_DVJqRaBuiGP</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6738,9 +6740,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>/3jFqbYZBoL_0Rk4zeeSvhK</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6755,9 +6757,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>tX3wAl6PcCM_bL2DWa84EgK</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -6777,9 +6779,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>je856Gpl4RF_GLl8eXH1C2D</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6794,9 +6796,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>lURyFy/tbMJ_4x4F22I28AO</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6811,9 +6813,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>PPEuRQNHSmO_tVGAFGL19SG</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -6834,9 +6836,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>hOgITNjw3KN_mpThYRhy/AJ</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6851,9 +6853,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>tmgUQtidf1K_BLgBBE8zOdF</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6868,9 +6870,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>tvLhCK8j16K_1bwbcIjRT6H</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -6889,16 +6891,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>8m64G+HNoNG_2MrE69XnxBP</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>rVnHcX509kN_McXFK3Un0ZN</eid>
               <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6913,16 +6915,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>GO1GWy/LJXJ_Wd8l9pzIJGE</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>uswak1ugL/C_o98Ass2S5MF</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6938,16 +6940,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>PhzqtboYkzB_iF/+QwbWN+I</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>TGkgFYv2QNG_272faf2QtkE</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -6971,9 +6973,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Puq7JszJJH_6fD5oE26aPC</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -6988,9 +6990,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>x506i5OZkuB_zDGqWnL2jwK</eid>
               <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7006,9 +7008,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>apRrAC1MH0L_N01FscajT4L</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7024,9 +7026,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>zYPGV3pHWxF_BC4qDQN95YE</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -7062,9 +7064,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>opy6maC05PM_+w2eMcOLnfK</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7080,9 +7082,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>vPGyEWM0rRG_KK/RQFSqPS</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7097,9 +7099,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Rfz8AT5X5p_sW3CQYlpgKK</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7116,9 +7118,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Sc7h0PiwnSI_+vi1tgn5+q</eid>
               <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7134,9 +7136,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>LYcP3YO/ysC_MAvD8q66OXI</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -7171,9 +7173,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>S4xkIgg6xtL_TY8lm6uc60C</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7188,9 +7190,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>0nz2ystndHM_xjXk/pgvKsJ</eid>
               <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7205,9 +7207,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>H1TAzf2yO4H_iKJfQYYMc</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -7228,9 +7230,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>cJPpfEmU2nF_A6HlTbrYseO</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7247,9 +7249,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>HVtHnycQ7fL_xLL9PsurVkF</eid>
               <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7265,9 +7267,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>+kuYsKgTWpD_/h3KLpGkmBL</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7283,9 +7285,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>bXrbo+Q11ZE_yb0t3SbaYJK</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -7325,9 +7327,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>g/Rp9fRgJxC_jdr3Z1hhdDL</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7343,9 +7345,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>rJnl2Es+XEK_yRJzDKv54dF</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7360,9 +7362,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>BP4/VHjc8PH_nDnuL2cpp+E</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7379,9 +7381,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>rYu70TqIhgD_wE7Bxyhc4/L</eid>
               <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7397,9 +7399,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>gOyrab+Dc6E_UqotVharKT</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -7439,9 +7441,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>u3n8LhOUp5C_MTJugw88waO</eid>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7456,9 +7458,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>KvHPTbmsQ0H_4TMs+nl5v1C</eid>
               <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7473,9 +7475,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Fw0Ij3h1zJ_My/WmBthmAE</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7491,9 +7493,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Jz8T8TT2KYM_CLONibb6S4G</eid>
               <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7509,9 +7511,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>sWOEPoJe+KK_jOKzW34XwFM</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7526,9 +7528,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>zkwGu8FSEIL_saWsQxOipPC</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -7547,16 +7549,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>zyfiDtU6SKO_P2EOLSx9rCB</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>QP3dHCgd3HL_BLZzqNMsdHF</eid>
               <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7571,16 +7573,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>PJIPcVMr4+G_yKIju87eycC</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>voT2XFgDwgK_PCd71pypOuL</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7596,16 +7598,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>8nhgl95iPvB_BAUgIVtlPV</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>mTYU+5zJdLN_EyfLpTgvSlP</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -7622,8 +7624,8 @@ Don B.A. Hader</text>
           <KeySig>
             <eid>CnXzuctEZmH_TbRttoPH5xC</eid>
             <linkedMain/>
-            <concertKey>-3</concertKey>
-            <actualKey>-1</actualKey>
+            <concertKey>-1</concertKey>
+            <actualKey>1</actualKey>
             </KeySig>
           <TimeSig>
             <eid>dFQCzz595hH_0pOVzYsv5CI</eid>
@@ -7739,9 +7741,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>kyjNAQ5v9P_7U+OhSIXw2L</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7756,16 +7758,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>sC0vWCXwliI_pFdlI6RGRND</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>y+8FfjNWoJB_zSl860wLWWP</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7781,16 +7783,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>W6shqakIjjD_gtV8xaXoVOJ</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>HGQYx5qIr1B_a0TPzGYLvtH</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -7824,16 +7826,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>l2h26BOO2fM_BEXSWOohhMO</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>WwoDAAeK9MG_6826p84F+vE</eid>
               <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7848,16 +7850,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>yg50HjNxGYJ_xlqxfhP82vE</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>F8CoEv5AVZC_jEkUx8acglN</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7873,16 +7875,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>i2tMZ7VmgU_sWZdqWXz+hF</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>a8n9b8LrpGC_yssFrcpt5q</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -7916,9 +7918,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>Q+h9bTv5V/I_a107jytMb9H</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7933,16 +7935,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>hHRoxr0mwmN_1Rq2+VCly9M</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>3IYE0KjOlTG_9J87/sdGEAJ</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -7958,16 +7960,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>B9QQYVArYKD_CEstyms5vHH</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>txcHZQC1EzH_0wqdUKyLemG</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -7997,9 +7999,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>5MVa54IVWD_rNUjSwgxbrN</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -8014,9 +8016,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>gGWnSZRx4UG_wcgtyHGWmdH</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -8031,9 +8033,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>YbcoRTiiIyP_1EA+HTpznlL</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -8049,9 +8051,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>T+TZth0ocQF_zwufJiZqSgC</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -8067,9 +8069,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>4c39MODY8TE_njD5S/JUR9F</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -8084,9 +8086,9 @@ Don B.A. Hader</text>
             <Note>
               <eid>lCLVvoJfyzF_XiyL8xWoxTJ</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -8105,16 +8107,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>PI5r6fnsanH_zNFf7Lnbr8C</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             <Note>
               <eid>b8iRkL3HcqD_vAK1YGT+1EJ</eid>
               <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -8129,16 +8131,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>6/KHfwgF5EF_hHwbqXsMMEM</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>Akvm2H7JkfP_K0IMzPao0xE</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -8154,16 +8156,16 @@ Don B.A. Hader</text>
             <Note>
               <eid>0qFUbBW6N2N_oT3T0WebRLM</eid>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             <Note>
               <eid>6z4N2XI0WJ_oEoGkwWL1oE</eid>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Rest>
