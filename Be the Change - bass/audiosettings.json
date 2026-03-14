@@ -44,7 +44,7 @@
         "balance": 0,
         "fxChain": {
         },
-        "volumeDb": 0
+        "volumeDb": 12
     },
     "tracks": [
         {
@@ -81,7 +81,7 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": 6
             },
             "partId": "5",
             "soloMuteState": {
@@ -123,7 +123,7 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": 8
             },
             "partId": "7",
             "soloMuteState": {
@@ -165,7 +165,7 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": 6
             },
             "partId": "6",
             "soloMuteState": {
